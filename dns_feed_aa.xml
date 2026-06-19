@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-18 09:18">
+<yml_catalog date="2026-06-19 11:06">
   <shop>
     <name>DNS</name>
     <company>DNS</company>
@@ -1207,7 +1207,7 @@
       <offer id="9116371" available="true">
         <url>https://dns-shop.by/ru/product/b4803ee70789716e/saundbar-lg-s60tr-cernyj/</url>
         <name>Саундбар LG S60TR черный</name>
-        <price>999.9</price>
+        <price>881.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>7</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4424121f865b13ffb87ec22755412a1c/q85_e054e32b4803d94dab0520561929675e860a4370c1f85e933cd7fb297a1706d4.jpg.webp</picture>
@@ -1221,7 +1221,7 @@
       <offer id="5651481" available="true">
         <url>https://dns-shop.by/ru/product/3ba24928cbf2d9cb/igrovaa-konsol-playstation-5-slim-digital-edition/</url>
         <name>Игровая консоль PlayStation 5 Slim Digital Edition</name>
-        <price>1924.9</price>
+        <price>1813.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c63af5489afe079093a80e6116621e6f/q85_c19923d883dc9ab9d41bb11f9f56257248c0b458f229ce1689944fd26a3cafd8.jpg.webp</picture>
@@ -1235,7 +1235,7 @@
       <offer id="5642334" available="true">
         <url>https://dns-shop.by/ru/product/618a13039ce0d9cb/igrovaa-konsol-playstation-5-slim-digital-edition/</url>
         <name>Игровая консоль PlayStation 5 Slim Digital Edition</name>
-        <price>1924.9</price>
+        <price>1834.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4d45da72691965d209de7169848c6b38/q85_d31ead1b2531e1eb132cbc505c729f42ee31989506521af1e5c7a321087e41d9.jpg.webp</picture>
@@ -1277,7 +1277,7 @@
       <offer id="5643383" available="true">
         <url>https://dns-shop.by/ru/product/2fa72ff1a4e7d582/igrovaa-konsol-playstation-5-slim/</url>
         <name>Игровая консоль PlayStation 5 Slim</name>
-        <price>2053.9</price>
+        <price>2072.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8dbba6402be5be59315f8b0d973d294f/q85_84cf1a12a3a79953cebfba38182df1a14449d71d52da68cbcfdffc594cfd6bf8.jpg.webp</picture>
@@ -1502,7 +1502,7 @@
       <offer id="9095837" available="true">
         <url>https://dns-shop.by/ru/product/7f48587bd3f2543e/rul-ardor-gaming-silverstone-v2-cernyj/</url>
         <name>Руль ARDOR GAMING Silverstone V2 черный</name>
-        <price>640.2</price>
+        <price>619.1</price>
         <oldprice>777.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>11</categoryId>
@@ -1924,7 +1924,7 @@
       <offer id="5450358" available="true">
         <url>https://dns-shop.by/ru/product/e8a6bce4d610ed20/mikrofonnaa-stojka-fifine-bm88/</url>
         <name>Микрофонная стойка Fifine BM88</name>
-        <price>104.9</price>
+        <price>146.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>18</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/42af019d2119ebb78494e019f645b6c0/q85_e0474003ae23080fdb08fb0b5e5e9c4d7b10646e6a4a24f222fe90cca7958315.jpg.webp</picture>
@@ -2428,20 +2428,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5400831" available="true">
-        <url>https://dns-shop.by/ru/product/c8192982ade9ed20/500-gb-25-sata-nakopitel-crucial-bx500-ct500bx500ssd1/</url>
-        <name>500 ГБ 2.5" SATA накопитель Crucial BX500 [CT500BX500SSD1]</name>
-        <price>337.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/d3e95d8893c1b89c6f3212a7702a714a/q85_1c2bc015e38efc2e92636c2d2c24aee962b2bc745dca122430246bb839ebac7d.jpg.webp</picture>
-        <description>Sata, чтение - 550 мбайт/сек, запись - 500 мбайт/сек, 3d nand 3 бит tlc, tbw - 120 тб</description>
-        <typePrefix>SSD накопители</typePrefix>
-        <vendor>Crucial</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5097510" available="true">
         <url>https://dns-shop.by/ru/product/944e92bda055ed20/1024-gb-25-sata-nakopitel-dexp-c100-c100smym1024/</url>
         <name>1024 ГБ 2.5" SATA накопитель DEXP C100</name>
@@ -2494,20 +2480,6 @@
         <description>Sata, чтение - 540 мбайт/сек, запись - 500 мбайт/сек, 3d nand, tbw - 360 тб</description>
         <typePrefix>SSD накопители</typePrefix>
         <vendor>Crucial</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5068924" available="true">
-        <url>https://dns-shop.by/ru/product/49172afd28f9ed20/1000-gb-25-sata-nakopitel-samsung-870-evo-mz-77e1t0bw/</url>
-        <name>1000 ГБ 2.5" SATA накопитель Samsung 870 EVO [MZ-77E1T0BW]</name>
-        <price>900.0</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/260f921e344e43e139f39b70804e0416/q85_2a8dc611d1748befbe216861600a5a3432e0d69b63ab5f43c203573041d59394.jpg.webp</picture>
-        <description>Sata, чтение - 560 мбайт/сек, запись - 530 мбайт/сек, 3d nand 3 бит mlc (tlc), tbw - 600 тб</description>
-        <typePrefix>SSD накопители</typePrefix>
-        <vendor>Samsung</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -2648,6 +2620,20 @@
         <description>Pcie 4.0 x4, чтение - 6000 мбайт/сек, запись - 4000 мбайт/сек, nvm express, tbw - 320 тб</description>
         <typePrefix>SSD M.2 накопители</typePrefix>
         <vendor>ADATA</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5046294" available="true">
+        <url>https://dns-shop.by/ru/product/9efce402e7a3ed20/512-gb-m2-nvme-nakopitel-kingston-kc3000-skc3000s512g/</url>
+        <name>512 ГБ M.2 NVMe накопитель Kingston KC3000 [SKC3000S/512G]</name>
+        <price>474.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/b54bc6dca6f55fc8c50187b8205aff06/q85_eb66d229a9b0fba3ac71064cab4e4b84b0326fa62024d2a3af2949c2f2942b6e.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 3900 мбайт/сек, 3 бит tlc, nvm express, tbw - 400 тб</description>
+        <typePrefix>SSD M.2 накопители</typePrefix>
+        <vendor>Kingston</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -2886,6 +2872,20 @@
         <description>Pcie 4.0 x4, чтение - 7450 мбайт/сек, запись - 6900 мбайт/сек, 3 бит mlc (tlc), nvm express, tbw - 600 тб</description>
         <typePrefix>SSD M.2 накопители</typePrefix>
         <vendor>Samsung</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5092103" available="true">
+        <url>https://dns-shop.by/ru/product/c0fa727c81e5ed20/2000-gb-m2-nvme-nakopitel-kingston-fury-renegade-sfyrdk2000g/</url>
+        <name>2000 ГБ M.2 NVMe накопитель Kingston FURY Renegade [SFYRDK/2000G]</name>
+        <price>962.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b49c7fb7135eda67b58de4a1a12a3b88/q85_a5a7eaaa03e2dc4e0081624a6fec1f5e32b8dc35719e96e672bd09b41fa651a4.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7300 мбайт/сек, запись - 7000 мбайт/сек, 3 бит tlc, nvm express, tbw - 2000 тб</description>
+        <typePrefix>SSD M.2 накопители</typePrefix>
+        <vendor>Kingston</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -4031,20 +4031,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5453068" available="true">
-        <url>https://dns-shop.by/ru/product/07314d9ce673ed20/27-monitor-msi-mag-274qrfw-belyj/</url>
-        <name>27" Монитор MSI MAG 274QRFW белый</name>
-        <price>836.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>27</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/35826c98985e7840727951d786adb650/q85_9031f538712bd7df164937b3c6dcc0e3e8d84b24325b33a95a5c038d11a65065.jpg.webp</picture>
-        <description>2560x1440@180 гц, ips, led, 1000:1, 400 кд/м², 178°/178°, displayport 1.4a, hdmi 2.0b x2, adaptive-sync</description>
-        <typePrefix>Мониторы</typePrefix>
-        <vendor>MSI</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5620915" available="true">
         <url>https://dns-shop.by/ru/product/9ce42af5ff0cd9cb/265-monitor-msi-mag-272qp-qd-oled-x50-cernyj/</url>
         <name>26.5" Монитор MSI MAG 272QP QD-OLED X50 черный</name>
@@ -4288,7 +4274,7 @@
       <offer id="5449905" available="true">
         <url>https://dns-shop.by/ru/product/a80b2a1ad467ed20/klaviatura-besprovodnaa-logitech-mx-keys-s/</url>
         <name>Клавиатура беспроводная Logitech MX Keys S</name>
-        <price>296.9</price>
+        <price>314.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/de5f82f62099bcd80dd1b9c322b6f48f/q85_ed5b35a427e75897e81e0f36995d859240deb1d1149d9862e4025179df0a399b.jpg.webp</picture>
@@ -4626,7 +4612,7 @@
       <offer id="4862743" available="true">
         <url>https://dns-shop.by/ru/product/e5817f190c56c823/vstraivaemaa-mikrovolnovaa-pec-dexp-bld25bb-cernyj/</url>
         <name>Встраиваемая микроволновая печь DEXP BLD25BB черный</name>
-        <price>386.9</price>
+        <price>407.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>36</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/75bd142897b81d117d813fd72c4150ad/q85_9282bca9d30b5ec02f9819a0b71a35447b9d2fd1fb836e3edef8963279fe9623.jpg.webp</picture>
@@ -4711,7 +4697,7 @@
       <offer id="5415710" available="true">
         <url>https://dns-shop.by/ru/product/3d24cc17f3c0ed20/mikrovolnovaa-pec-eigen-mw-fbe900i-zerkalnyj-serebristyj/</url>
         <name>Микроволновая печь Eigen MW-FBE900I зеркальный, серебристый</name>
-        <price>327.0</price>
+        <price>343.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>38</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b3021a0d09370066b8b8bc675975e108/q85_fe4cbd37f7abbbde69b933656da4dbd5e8f8868654c558a7e51e2f7f83b04b0e.jpg.webp</picture>
@@ -4788,20 +4774,6 @@
         <description>Используемый кофе - молотый, 1350 вт, 1 л</description>
         <typePrefix>Кофеварки рожковые</typePrefix>
         <vendor>Reoka</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="9276012" available="true">
-        <url>https://dns-shop.by/ru/product/dbdaa98e1f20cfe9/kofevarka-rozkovaa-delonghi-dedica-cappuccino-ec860m-serebristyj/</url>
-        <name>Кофеварка рожковая Delonghi Dedica Cappuccino EC860.M серебристый</name>
-        <price>555.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>42</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ea2fea188744cc7fcc99304fb6d0bd2a/q85_1b07c40f6b8c9e3a75cfa33a1b548270e95fbc337d21be19b8766d4bbd0437eb.jpg.webp</picture>
-        <description>Используемый кофе - молотый, 1450 вт, 1 л</description>
-        <typePrefix>Кофеварки рожковые</typePrefix>
-        <vendor>Delonghi</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -5301,7 +5273,7 @@
       <offer id="5434722" available="true">
         <url>https://dns-shop.by/ru/product/b616fa0c61a5ed20/uvlaznitel-vozduha-smartmi-evaporative-humidifier-3/</url>
         <name>Увлажнитель воздуха Smartmi Evaporative Humidifier 3</name>
-        <price>379.9</price>
+        <price>533.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>51</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1a08a1562a8ba1d4d2f0ac0f0b757165/q85_2f14375f82792627965a63867624fca72be48c6adc868529e04d06ecc6400242.jpg.webp</picture>
@@ -5799,21 +5771,6 @@
         <description>Am4, amd b550, 4xddr4-3200 мгц, 2xpci-ex16, 2xm.2, standard-atx</description>
         <typePrefix>Материнские платы</typePrefix>
         <vendor>MSI</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5446227" available="true">
-        <url>https://dns-shop.by/ru/product/ab7b1e97b98bed20/materinskaa-plata-gigabyte-b650m-gaming-wifi/</url>
-        <name>Материнская плата GIGABYTE B650M GAMING WIFI</name>
-        <price>199.0</price>
-        <oldprice>399.9</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>56</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/382e2b645de2b63b311d724e64f43667/q85_d2290f1ff3050ac547963f9146b8b272307affa188d68ad13bd1e7db84c275a4.jpg.webp</picture>
-        <description>Am5, amd b650, 2xddr5-5200 мгц, 1xpci-ex16, 1xm.2, micro-atx</description>
-        <typePrefix>Материнские платы</typePrefix>
-        <vendor>GIGABYTE</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -6641,6 +6598,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5621412" available="true">
+        <url>https://dns-shop.by/ru/product/b58aaa7e00a9d582/videokarta-palit-geforce-rtx-5070-infinity-3-ne75070019k9-gb2050s/</url>
+        <name>Видеокарта Palit GeForce RTX 5070 Infinity 3 [NE75070019K9-GB2050S]</name>
+        <price>1979.0</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/61e4f67d2e00aaa4177dc77466628d6b/q85_a55767791fb51d47eb182ebcd4af6c9337b5dcf64ade4f28d4a293c07471120f.jpg.webp</picture>
+        <description>Pcie 5.0, gpu 2325 мгц, 12 гб gddr7, 192 бит, 3 x displayport, hdmi</description>
+        <typePrefix>Видеокарты</typePrefix>
+        <vendor>Palit</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5622540" available="true">
         <url>https://dns-shop.by/ru/product/a48b10d205f8d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-oc-gv-n506twf2oc-16gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC [GV-N506TWF2OC-16GD]</name>
@@ -7356,6 +7327,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5625050" available="true">
+        <url>https://dns-shop.by/ru/product/94b433d51901d9cb/operativnaa-pamat-apacer-fl16g2cpkh-16-gb/</url>
+        <name>Оперативная память Apacer [FL.16G2C.PKH] 16 ГБ</name>
+        <price>656.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>58</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/de481b2e845c147eaf3680ac615e1217/q85_bd7b736ab171a2be8d8350e6bba92a2a2ccbc9482ce0e94dfe8fe4d9fc20a629.jpg.webp</picture>
+        <description>Ddr5, 16 гбx1 шт, 5600 мгц, 46(cl)</description>
+        <typePrefix>Оперативная память DIMM</typePrefix>
+        <vendor>Apacer</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5422784" available="true">
         <url>https://dns-shop.by/ru/product/79bf17671638ed20/operativnaa-pamat-adata-xpg-gammix-d35-ax4u320016g16a-dtbkd35-32-gb/</url>
         <name>Оперативная память ADATA XPG GAMMIX D35 [AX4U320016G16A-DTBKD35] 32 ГБ</name>
@@ -7874,6 +7859,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="4885104" available="true">
+        <url>https://dns-shop.by/ru/product/9042a4123bb6ed20/blok-pitania-montech-gamma-ii-550-gamma-ii-550-cernyj/</url>
+        <name>Блок питания MONTECH GAMMA II 550 [GAMMA II 550] черный</name>
+        <price>207.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>60</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/46be5939388b4a4a3b0316f529f7ead6/q85_a53bbf8e1783aad1da3227221d71457639417414fcacafa28ef94b6f2456cbde.jpg.webp</picture>
+        <description>550 вт, 80+ gold, apfc, 20+4 pin, 2 x 4+4 pin cpu, 8 sata, 2 x 6+2 pin pci-e</description>
+        <typePrefix>Блоки питания</typePrefix>
+        <vendor>Montech</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5454634" available="true">
         <url>https://dns-shop.by/ru/product/604b63cbed8bd21a/blok-pitania-cougar-gr-750-31gr0756433p-cernyj/</url>
         <name>Блок питания Cougar GR 750 [31GR075.6433P] черный</name>
@@ -7882,6 +7881,48 @@
         <categoryId>60</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/658f3011ed5473fd3706af8982e7b677/q85_3259a34b09537270eb62430af8f86d97dfe0806fc3daba60c5b266bfd94dba73.jpg.webp</picture>
         <description>750 вт, 80+ gold, apfc, 20+4 pin, 2 x 4+4 pin cpu, 6 sata, 16 pin (12v-2x6), 2 x 6+2 pin pci-e</description>
+        <typePrefix>Блоки питания</typePrefix>
+        <vendor>Cougar</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5439386" available="true">
+        <url>https://dns-shop.by/ru/product/4ba7a379881ced20/blok-pitania-zalman-gigamax-iii-850w-zm850-gv3-cernyj/</url>
+        <name>Блок питания ZALMAN GigaMax III 850W [ZM850-GV3] черный</name>
+        <price>221.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>60</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/9a85280db4e45d993f8b1517c0442112/q85_f83c150bce3e5ba314806ce2b1479cbad0918c69580e57472c8dba900b9c1b64.jpg.webp</picture>
+        <description>850 вт, 80+ bronze, apfc, 20+4 pin, 4+4 pin, 8 pin cpu, 6 sata, 16 pin (12vhpwr), 4 x 6+2 pin pci-e</description>
+        <typePrefix>Блоки питания</typePrefix>
+        <vendor>ZALMAN</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5454635" available="true">
+        <url>https://dns-shop.by/ru/product/61fda40aed8bd21a/blok-pitania-cougar-gr-850-31gr0856433p-cernyj/</url>
+        <name>Блок питания Cougar GR 850 [31GR085.6433P] черный</name>
+        <price>240.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>60</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8b4b0e7a5c88998bb6a62847b8d2b4bb/q85_79603a8f093cc8be264f422702a70f3a50e7bf28fcab059b6dfc41a2cb5c61c6.jpg.webp</picture>
+        <description>850 вт, 80+ gold, apfc, 20+4 pin, 2 x 4+4 pin cpu, 6 sata, 16 pin (12v-2x6), 3 x 6+2 pin pci-e</description>
+        <typePrefix>Блоки питания</typePrefix>
+        <vendor>Cougar</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5065115" available="true">
+        <url>https://dns-shop.by/ru/product/2b4e4b9b1dcbed20/blok-pitania-cougar-gex-x2-850-31gt085001p01-cernyj/</url>
+        <name>Блок питания Cougar GEX X2 850 [31GT085001P01] черный</name>
+        <price>300.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>60</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c29cd44f4f9cec00d2b0c60502300dd9/q85_91cf8c47ec9a21b3d0ed0880ecb09d71ef413b23a75d9c10ae7b91295d687d95.jpg.webp</picture>
+        <description>850 вт, 80+ gold, apfc, 20+4 pin, 4+4 pin, 8 pin cpu, 10 sata, 16 pin (12vhpwr), 4 x 6+2 pin pci-e</description>
         <typePrefix>Блоки питания</typePrefix>
         <vendor>Cougar</vendor>
         <pickup>true</pickup>
@@ -7976,7 +8017,7 @@
       <offer id="5480048" available="true">
         <url>https://dns-shop.by/ru/product/7b28575b52ead582/korpus-lian-li-a3-matx-wood-edition-g99a3x-wdr0-cernyj/</url>
         <name>Корпус LIAN LI A3-mATX Wood Edition [G99.A3X-WD.R0] черный</name>
-        <price>292.9</price>
+        <price>311.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>61</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0769e8fa796b5ac2cfa5a85407f55f40/q85_124855f01009f9d60718f4ac1261fc42f67339cebc8d162909e64d5ad53ad14b.jpg.webp</picture>
@@ -8004,7 +8045,7 @@
       <offer id="5439999" available="true">
         <url>https://dns-shop.by/ru/product/f9e116388a88ed20/korpus-lian-li-o11-dynamic-evo-rgb-g99o11dergbxr0-cernyj/</url>
         <name>Корпус LIAN LI O11 Dynamic EVO RGB [G99.O11DERGBX.R0] черный</name>
-        <price>592.9</price>
+        <price>562.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>61</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/5027c06506c3cc48a514eb9adb921296/q85_d143e7244d8bc551877780cde736fa0bb74a2862a96b28829e881f020be0ffcd.jpg.webp</picture>
@@ -8060,7 +8101,8 @@
       <offer id="5610958" available="true">
         <url>https://dns-shop.by/ru/product/856a2322bd08d9cb/komplekt-ventilatorov-lian-li-uni-fan-tl-wireless-120-3-g9912tl1w3wr0-belyj/</url>
         <name>Комплект вентиляторов LIAN LI UNI FAN TL WIRELESS 120-3 [G99.12TL1W3W.R0] белый</name>
-        <price>263.9</price>
+        <price>284.1</price>
+        <oldprice>292.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>64</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/9b96918bdd9ff5a4074bb442b403b114/q85_8fbcbd60bb629d10060889f8fe7b67bb8ed5d11bd40f8426e35766f44c0ac640.jpg.webp</picture>
@@ -8141,20 +8183,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5400831" available="true">
-        <url>https://dns-shop.by/ru/product/c8192982ade9ed20/500-gb-25-sata-nakopitel-crucial-bx500-ct500bx500ssd1/</url>
-        <name>500 ГБ 2.5" SATA накопитель Crucial BX500 [CT500BX500SSD1]</name>
-        <price>337.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/d3e95d8893c1b89c6f3212a7702a714a/q85_1c2bc015e38efc2e92636c2d2c24aee962b2bc745dca122430246bb839ebac7d.jpg.webp</picture>
-        <description>Sata, чтение - 550 мбайт/сек, запись - 500 мбайт/сек, 3d nand 3 бит tlc, tbw - 120 тб</description>
-        <typePrefix>SSD накопители</typePrefix>
-        <vendor>Crucial</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5097510" available="true">
         <url>https://dns-shop.by/ru/product/944e92bda055ed20/1024-gb-25-sata-nakopitel-dexp-c100-c100smym1024/</url>
         <name>1024 ГБ 2.5" SATA накопитель DEXP C100</name>
@@ -8207,20 +8235,6 @@
         <description>Sata, чтение - 540 мбайт/сек, запись - 500 мбайт/сек, 3d nand, tbw - 360 тб</description>
         <typePrefix>SSD накопители</typePrefix>
         <vendor>Crucial</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5068924" available="true">
-        <url>https://dns-shop.by/ru/product/49172afd28f9ed20/1000-gb-25-sata-nakopitel-samsung-870-evo-mz-77e1t0bw/</url>
-        <name>1000 ГБ 2.5" SATA накопитель Samsung 870 EVO [MZ-77E1T0BW]</name>
-        <price>900.0</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/260f921e344e43e139f39b70804e0416/q85_2a8dc611d1748befbe216861600a5a3432e0d69b63ab5f43c203573041d59394.jpg.webp</picture>
-        <description>Sata, чтение - 560 мбайт/сек, запись - 530 мбайт/сек, 3d nand 3 бит mlc (tlc), tbw - 600 тб</description>
-        <typePrefix>SSD накопители</typePrefix>
-        <vendor>Samsung</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -8361,6 +8375,20 @@
         <description>Pcie 4.0 x4, чтение - 6000 мбайт/сек, запись - 4000 мбайт/сек, nvm express, tbw - 320 тб</description>
         <typePrefix>SSD M.2 накопители</typePrefix>
         <vendor>ADATA</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5046294" available="true">
+        <url>https://dns-shop.by/ru/product/9efce402e7a3ed20/512-gb-m2-nvme-nakopitel-kingston-kc3000-skc3000s512g/</url>
+        <name>512 ГБ M.2 NVMe накопитель Kingston KC3000 [SKC3000S/512G]</name>
+        <price>474.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/b54bc6dca6f55fc8c50187b8205aff06/q85_eb66d229a9b0fba3ac71064cab4e4b84b0326fa62024d2a3af2949c2f2942b6e.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 3900 мбайт/сек, 3 бит tlc, nvm express, tbw - 400 тб</description>
+        <typePrefix>SSD M.2 накопители</typePrefix>
+        <vendor>Kingston</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -8659,6 +8687,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5092103" available="true">
+        <url>https://dns-shop.by/ru/product/c0fa727c81e5ed20/2000-gb-m2-nvme-nakopitel-kingston-fury-renegade-sfyrdk2000g/</url>
+        <name>2000 ГБ M.2 NVMe накопитель Kingston FURY Renegade [SFYRDK/2000G]</name>
+        <price>962.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b49c7fb7135eda67b58de4a1a12a3b88/q85_a5a7eaaa03e2dc4e0081624a6fec1f5e32b8dc35719e96e672bd09b41fa651a4.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7300 мбайт/сек, запись - 7000 мбайт/сек, 3 бит tlc, nvm express, tbw - 2000 тб</description>
+        <typePrefix>SSD M.2 накопители</typePrefix>
+        <vendor>Kingston</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5622167" available="true">
         <url>https://dns-shop.by/ru/product/71d02afa0542d582/2000-gb-m2-nvme-nakopitel-samsung-9100-pro-mz-vap2t0bw/</url>
         <name>2000 ГБ M.2 NVMe накопитель Samsung 9100 PRO [MZ-VAP2T0BW]</name>
@@ -8874,7 +8916,7 @@
       <offer id="5612861" available="true">
         <url>https://dns-shop.by/ru/product/00ee717fd2e7d582/3d-printer-anycubic-kobra-s1-combo/</url>
         <name>3D принтер Anycubic Kobra S1 Combo</name>
-        <price>1733.0</price>
+        <price>1667.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>69</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/dd4ebeb496a1c1de52eb314ad653b207/q85_d9ddb5d4630293214813f1bfd1ea4389576266b3c89800bc4cf620bf7f8861ed.png.webp</picture>
@@ -9187,7 +9229,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>72</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/345b599f1c96089e1479b5bc5e7a681b/q85_a857f768a1bd4413d6e88d33de671f89640bddbfbaa81ba4a42bca15f37b9e7e.jpg.webp</picture>
-        <description>4 lan, 100 мбит/с, 1000 мбит/с, 2500 мбит/с, 10 мбит/с, 4 (802.11n), 5 (802.11ac), 6 (802.11ax), 7 (802.11be), wi-fi 3570 мбит/с, usb 3.2 gen 1 type-a x 1, ipv6</description>
+        <description>4 lan, 10 мбит/с, 2500 мбит/с, 1000 мбит/с, 100 мбит/с, 4 (802.11n), 5 (802.11ac), 6 (802.11ax), 7 (802.11be), wi-fi 3570 мбит/с, usb 3.2 gen 1 type-a x 1, ipv6</description>
         <typePrefix>Wi-Fi роутеры</typePrefix>
         <vendor>TP-Link</vendor>
         <pickup>true</pickup>
