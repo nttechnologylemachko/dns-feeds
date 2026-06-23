@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-22 10:23">
+<yml_catalog date="2026-06-23 10:15">
   <shop>
     <name>DNS</name>
     <company>DNS</company>
@@ -120,21 +120,6 @@
         <description>Ядер - 8x(2.2 ггц), 8 гб, 2 sim, amoled, 2720x1224, камера 50 мп, nfc, 4g, gps, fm, 5160 ма*ч</description>
         <typePrefix>Смартфоны</typePrefix>
         <vendor>Infinix</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="9201483" available="true">
-        <url>https://dns-shop.by/ru/product/fc637286b8a6a1ba/678-smartfon-honor-x9c-256-gb-fioletovyj/</url>
-        <name>6.78" Смартфон HONOR X9c 256 ГБ фиолетовый</name>
-        <price>839.4</price>
-        <oldprice>1399.0</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c0c8a3a19cb494291a2630697b4c92ed/q85_b07cd019a561dc4c0288d7868bb9e3dfde9d0f3e0ec5ab09d5aeb950ebc46c37.jpg.webp</picture>
-        <description>Ядер - 8x(2.2 ггц), 8 гб, 2 sim, amoled, 2700x1224, камера 108+5 мп, nfc, 5g, 4g, gps, 6600 ма*ч</description>
-        <typePrefix>Смартфоны</typePrefix>
-        <vendor>HONOR</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -921,21 +906,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5619942" available="true">
-        <url>https://dns-shop.by/ru/product/bb2b85f1f97ad21a/11-planset-apple-ipad-11th-gen-wi-fi-128-gb-zeltyj/</url>
-        <name>11" Планшет Apple iPad (11th Gen) Wi-Fi 128 ГБ желтый</name>
-        <price>1182.5</price>
-        <oldprice>1476.9</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ff8dc355ef2aa63a9067d0b08c3bbac5/q85_c8de1288c6f17c846082cd9ef333dd564dfa1ab48bbc86b4facc3b976e43f676.jpg.webp</picture>
-        <description>2360x1640, ips, 5x3.46 ггц, 6 гб, 7606 ма*ч, ipados 18</description>
-        <typePrefix>Планшеты</typePrefix>
-        <vendor>Apple</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5628804" available="true">
         <url>https://dns-shop.by/ru/product/782c5f74315ad9cb/121-planset-honor-pad-10-wi-fi-256-gb-seryj/</url>
         <name>12.1" Планшет HONOR Pad 10 Wi-Fi 256 ГБ серый</name>
@@ -982,7 +952,7 @@
       <offer id="5430450" available="true">
         <url>https://dns-shop.by/ru/product/9ca71c3547bced20/78-elektronnaa-kniga-pocketbook-inkpad-4-cernyj/</url>
         <name>7.8" Электронная книга PocketBook InkPad 4 черный</name>
-        <price>1012.6</price>
+        <price>1039.7</price>
         <oldprice>1132.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>5</categoryId>
@@ -1193,7 +1163,7 @@
       <offer id="5451165" available="true">
         <url>https://dns-shop.by/ru/product/e4272d0ddc26ed20/75-190-sm-televizor-dexp-75mcg-seryj/</url>
         <name>75" (190 см) Телевизор DEXP 75MCG серый</name>
-        <price>3552.9</price>
+        <price>3652.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>6</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/225b3e64577a300df0a4eb013bb0c329/q85_380127a9eb7e2b81991cf69074ad5b0a7dec9e8cdd318b1024ddd601a6d63adf.jpg.webp</picture>
@@ -1235,7 +1205,7 @@
       <offer id="9116371" available="true">
         <url>https://dns-shop.by/ru/product/b4803ee70789716e/saundbar-lg-s60tr-cernyj/</url>
         <name>Саундбар LG S60TR черный</name>
-        <price>881.9</price>
+        <price>999.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>7</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4424121f865b13ffb87ec22755412a1c/q85_e054e32b4803d94dab0520561929675e860a4370c1f85e933cd7fb297a1706d4.jpg.webp</picture>
@@ -1622,20 +1592,6 @@
         <description>300 мм, 1.3 кг, лепестки-переключатели</description>
         <typePrefix>Съемные рулевые колеса</typePrefix>
         <vendor>Moza</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5631887" available="true">
-        <url>https://dns-shop.by/ru/product/2ca5869c4690d9cb/besprovodnyeprovodnye-nausniki-haylou-s40-sinij-2025/</url>
-        <name>Беспроводные/проводные наушники Haylou S40 синий 2025</name>
-        <price>148.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>14</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a4e7dfa453ad21ca14fad8ed86a0ae9d/q85_4eb2f9959e6cd3a6a2204316e1854a05ad5ca8a5bec97d2fbf331136287374a5.jpg.webp</picture>
-        <description>Охватывающие, проводной, bluetooth 6.0, активное шумоподавление, до 90 ч</description>
-        <typePrefix>Наушники и гарнитуры</typePrefix>
-        <vendor>Haylou</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -2289,6 +2245,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5643809" available="true">
+        <url>https://dns-shop.by/ru/product/4a85bccba8dad582/16-noutbuk-asus-tuf-gaming-fx607vjb-rl203-seryj/</url>
+        <name>16" Ноутбук ASUS TUF Gaming FX607VJB-RL203 серый</name>
+        <price>3086.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>21</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ce4f27a524387261c83b3cbff3f45599/q85_d68b410c95c3102f1e7ce9c651bd5e2f7aae434eecd746c09e0704d2a5d1fcf5.png.webp</picture>
+        <description>Английская/русская раскладка, 1920x1200, ips, intel core 5 210h, ядра: 4 + 4 х 2.2 ггц + 1.6 ггц, ram 16 гб, ssd 512 гб, geforce rtx 3050 для ноутбуков, 6 гб, без ос</description>
+        <typePrefix>Ноутбуки</typePrefix>
+        <vendor>ASUS</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5618418" available="true">
         <url>https://dns-shop.by/ru/product/177282c1ef60d582/173-noutbuk-asus-tuf-gaming-fx707vur-hx224-seryj/</url>
         <name>17.3" Ноутбук ASUS TUF Gaming FX707VUR-HX224 серый</name>
@@ -2905,20 +2875,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5499608" available="true">
-        <url>https://dns-shop.by/ru/product/8287693f90dad582/2000-gb-m2-nvme-nakopitel-kingston-nv3-snv3s2000g/</url>
-        <name>2000 ГБ M.2 NVMe накопитель Kingston NV3 [SNV3S/2000G]</name>
-        <price>777.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/e3aee8d8ce1220df7da1dbab103ec07d/q85_10843453f023649988a67b5d77b9a518bad8e2f96522e964270788093590a3c9.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 6000 мбайт/сек, запись - 5000 мбайт/сек, 4 бит qlc, nvm express, tbw - 640 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Kingston</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5435710" available="true">
         <url>https://dns-shop.by/ru/product/26135ef669a0ed20/1000-gb-m2-nvme-nakopitel-samsung-990-pro-mz-v9p1t0cw/</url>
         <name>1000 ГБ M.2 NVMe накопитель Samsung 990 PRO [MZ-V9P1T0CW]</name>
@@ -2999,34 +2955,6 @@
         <description>Pcie 4.0 x4, чтение - 7450 мбайт/сек, запись - 6900 мбайт/сек, 3 бит mlc (tlc), nvm express, tbw - 1200 тб</description>
         <typePrefix>SSD M.2 накопители</typePrefix>
         <vendor>Samsung</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5622167" available="true">
-        <url>https://dns-shop.by/ru/product/71d02afa0542d582/2000-gb-m2-nvme-nakopitel-samsung-9100-pro-mz-vap2t0bw/</url>
-        <name>2000 ГБ M.2 NVMe накопитель Samsung 9100 PRO [MZ-VAP2T0BW]</name>
-        <price>1480.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/be6a6b88bb3e169363a47da19a31cefa/q85_e5c1a5fd22d31246623b9ab25047e760326e2884da35a0a8c2c386309d8fdf73.jpg.webp</picture>
-        <description>Pcie 5.0 x4, чтение - 14700 мбайт/сек, запись - 13400 мбайт/сек, 3 бит tlc, nvm express, tbw - 1200 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Samsung</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5055506" available="true">
-        <url>https://dns-shop.by/ru/product/d843b8c700d5ed20/1024-gb-m2-nvme-nakopitel-kingston-kc3000-skc3000s1024g/</url>
-        <name>1024 ГБ M.2 NVMe накопитель Kingston KC3000 [SKC3000S/1024G]</name>
-        <price>629.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/f8345f3edc4418d67ed24ffb168f3b77/q85_1aff906b6a1ff1b8ce05763da72cbf2b71c1697f907ff72c789c0ce7f7063782.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 6000 мбайт/сек, 3 бит tlc, nvm express, tbw - 800 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Kingston</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -3601,7 +3529,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/27c8f721b73881229144807710295d6e/q85_f14bd261cf5bae511ebdf87b161ad9f3b3f6f3637752640e269fd6ca6bd4c028.jpg.webp</picture>
-        <description>2560x1440@180 гц, va, led, 5000:1, 250 кд/м², 178°/178°, displayport 1.4 x2, hdmi 2.0 x2: 1500r, amd freesync compatible, nvidia g-sync compatible</description>
+        <description>2560x1440@180 гц, va, led, 5000:1, 300 кд/м², 178°/178°, displayport 1.4 x2, hdmi 2.0 x2: 1500r, amd freesync, nvidia g-sync compatible</description>
         <typePrefix>Мониторы</typePrefix>
         <vendor>ARDOR GAMING</vendor>
         <pickup>true</pickup>
@@ -4373,7 +4301,7 @@
       <offer id="5449905" available="true">
         <url>https://dns-shop.by/ru/product/a80b2a1ad467ed20/klaviatura-besprovodnaa-logitech-mx-keys-s/</url>
         <name>Клавиатура беспроводная Logitech MX Keys S</name>
-        <price>314.9</price>
+        <price>281.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/de5f82f62099bcd80dd1b9c322b6f48f/q85_ed5b35a427e75897e81e0f36995d859240deb1d1149d9862e4025179df0a399b.jpg.webp</picture>
@@ -4711,7 +4639,7 @@
       <offer id="4862743" available="true">
         <url>https://dns-shop.by/ru/product/e5817f190c56c823/vstraivaemaa-mikrovolnovaa-pec-dexp-bld25bb-cernyj/</url>
         <name>Встраиваемая микроволновая печь DEXP BLD25BB черный</name>
-        <price>407.9</price>
+        <price>384.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>36</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/75bd142897b81d117d813fd72c4150ad/q85_9282bca9d30b5ec02f9819a0b71a35447b9d2fd1fb836e3edef8963279fe9623.jpg.webp</picture>
@@ -5358,7 +5286,7 @@
       <offer id="9130125" available="true">
         <url>https://dns-shop.by/ru/product/a850e1bd3ffb5227/kondicioner-nastennyj-split-sistema-dexp-ac-cdw12inv-belyj/</url>
         <name>Кондиционер настенный сплит-система DEXP AC-CDW12INV белый</name>
-        <price>1080.9</price>
+        <price>1099.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>50</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ddbe29ba45559a5f3177e29590481622/q85_6c89f8edde6def70a677c0ca2ce78a5476bce18317297355d3d868daf28bc335.jpg.webp</picture>
@@ -7245,6 +7173,20 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5639847" available="true">
+        <url>https://dns-shop.by/ru/product/9308e4d58a13d582/videokarta-asrock-amd-radeon-rx-9070-gre-steel-legend-oc-rx9070gre-sld-12go/</url>
+        <name>Видеокарта ASRock AMD Radeon RX 9070 GRE Steel Legend OC [RX9070GRE SLD 12GO]</name>
+        <price>1972.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/06b184c7d1f6ea3cde883bbeae81e61d/q85_38dcb77db1ecd87d639c865bea61220af52c213374c27acd823fc5b42079cd7f.jpg.webp</picture>
+        <description>Pcie 5.0, gpu 2200 мгц, 12 гб gddr6, 192 бит, 3 x displayport, hdmi</description>
+        <typePrefix>Видеокарты</typePrefix>
+        <vendor>Asrock</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5652776" available="true">
         <url>https://dns-shop.by/ru/product/955c0d4bd561d9cb/videokarta-kfa2-geforce-rtx-3050-x-black-35nrldhp9odk/</url>
         <name>Видеокарта KFA2 GeForce RTX 3050 X Black [35NRLDHP9ODK]</name>
@@ -8620,20 +8562,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5055506" available="true">
-        <url>https://dns-shop.by/ru/product/d843b8c700d5ed20/1024-gb-m2-nvme-nakopitel-kingston-kc3000-skc3000s1024g/</url>
-        <name>1024 ГБ M.2 NVMe накопитель Kingston KC3000 [SKC3000S/1024G]</name>
-        <price>629.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/f8345f3edc4418d67ed24ffb168f3b77/q85_1aff906b6a1ff1b8ce05763da72cbf2b71c1697f907ff72c789c0ce7f7063782.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 6000 мбайт/сек, 3 бит tlc, nvm express, tbw - 800 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Kingston</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5076978" available="true">
         <url>https://dns-shop.by/ru/product/6351062f439ced20/1000-gb-m2-nvme-nakopitel-adata-legend-960-aleg-960-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 960 [ALEG-960-1TCS]</name>
@@ -8858,20 +8786,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5622167" available="true">
-        <url>https://dns-shop.by/ru/product/71d02afa0542d582/2000-gb-m2-nvme-nakopitel-samsung-9100-pro-mz-vap2t0bw/</url>
-        <name>2000 ГБ M.2 NVMe накопитель Samsung 9100 PRO [MZ-VAP2T0BW]</name>
-        <price>1480.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/be6a6b88bb3e169363a47da19a31cefa/q85_e5c1a5fd22d31246623b9ab25047e760326e2884da35a0a8c2c386309d8fdf73.jpg.webp</picture>
-        <description>Pcie 5.0 x4, чтение - 14700 мбайт/сек, запись - 13400 мбайт/сек, 3 бит tlc, nvm express, tbw - 1200 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Samsung</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5430896" available="true">
         <url>https://dns-shop.by/ru/product/e41e28fb4ba0ed20/2-tb-zestkij-disk-wd-blue-wd20earz/</url>
         <name>2 ТБ Жесткий диск WD Blue [WD20EARZ]</name>
@@ -9034,7 +8948,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>68</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/5be50de3b6c55a9b77c0112f3356dafc/q85_bb854f85f8abe7bad2282d3f937d68ae3544820e5b00e81ebbc08fd430ee4202.jpg.webp</picture>
-        <description>Цветная печать, 5760x1440 dpi, ч/б - 7 стр/мин (a4), usb type-b, снпч</description>
+        <description>Цветная печать, 100 x 150 мм, a4, a5, a6, 5760x1440 dpi, ч/б - 7 стр/мин (a4), usb type-b, снпч</description>
         <typePrefix>Струйные принтеры</typePrefix>
         <vendor>Epson</vendor>
         <pickup>true</pickup>
@@ -9086,7 +9000,7 @@
       <offer id="5612861" available="true">
         <url>https://dns-shop.by/ru/product/00ee717fd2e7d582/3d-printer-anycubic-kobra-s1-combo/</url>
         <name>3D принтер Anycubic Kobra S1 Combo</name>
-        <price>1667.0</price>
+        <price>1611.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>69</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/dd4ebeb496a1c1de52eb314ad653b207/q85_d9ddb5d4630293214813f1bfd1ea4389576266b3c89800bc4cf620bf7f8861ed.png.webp</picture>
@@ -9114,7 +9028,7 @@
       <offer id="5630727" available="true">
         <url>https://dns-shop.by/ru/product/547af3843d1ed582/3d-printer-bambu-lab-p1s-combo-eu/</url>
         <name>3D принтер Bambu Lab P1S Combo EU</name>
-        <price>2751.9</price>
+        <price>2984.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>69</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/53b1f7d05cbe3ff16dbd4d5cc991f8d2/q85_36b4fd234b693d754f8ee6206bbd11b6aa35af0f80351dddb876aa6fe981857a.jpg.webp</picture>
@@ -9254,7 +9168,7 @@
       <offer id="5431110" available="true">
         <url>https://dns-shop.by/ru/product/9546191b4c68ed20/komputernoe-kreslo-ardor-gaming-chaos-guard-200m-cernyj/</url>
         <name>Компьютерное кресло ARDOR GAMING Chaos Guard 200M черный</name>
-        <price>570.9</price>
+        <price>549.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>70</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1cc8f59c623d8b2b4bc663f5de2f4fe2/q85_596cdf2cbfa586df9e61d9bc02c22fc77ccbe133daebddc3040612d5d340fbd0.jpg.webp</picture>
