@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-01 08:29">
+<yml_catalog date="2026-07-06 10:07">
   <shop>
     <name>DNS</name>
     <company>DNS</company>
@@ -100,7 +100,7 @@
       <offer id="5632748" available="true">
         <url>https://dns-shop.by/ru/product/da587cd7516ed9cb/678-smartfon-tecno-camon-40-256-gb-bezevyj/</url>
         <name>6.78" Смартфон Tecno CAMON 40 256 ГБ бежевый</name>
-        <price>751.9</price>
+        <price>929.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>1</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/352627a620f462682d0ee79712aa9d5c/q85_f900c011a085bac6bcb80f4e24d2f156a77c9970bacc07a043cafab57aacc85f.jpg.webp</picture>
@@ -184,7 +184,7 @@
       <offer id="5631794" available="true">
         <url>https://dns-shop.by/ru/product/f1077c664666d582/67-smartfon-samsung-galaxy-a56-256-gb-seryj/</url>
         <name>6.7" Смартфон Samsung Galaxy A56 256 ГБ серый</name>
-        <price>1274.9</price>
+        <price>1295.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>1</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6a1c295d183963a0646bfd1bcc1e7435/q85_cc9ee10add8c8fb9a838f6824a2d51cc4948aefa4ab193da3ec72cfc34262069.jpg.webp</picture>
@@ -320,21 +320,6 @@
         <description>Ядер - 8x(2.63 ггц), 12 гб, 2 sim, amoled, 2664x1200, камера 50+50+12 мп, nfc, 5g, 4g, gps, 5200 ма*ч</description>
         <typePrefix>Смартфоны</typePrefix>
         <vendor>HONOR</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="9321233" available="true">
-        <url>https://dns-shop.by/ru/product/40bebaf6b0f4fab8/61-smartfon-apple-iphone-14-pro-vosstanovlennyj-elnu-grejd-a-128-gb-serebristyj/</url>
-        <name>6.1" Смартфон Apple iPhone 14 Pro восстановленный ELNU Грейд A 128 ГБ серебристый</name>
-        <price>1899.0</price>
-        <oldprice>2699.0</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/50b53f532c98bc30b30496f44bc9a34f/q85_0726fe74714b36a59d24e25db1e1d94d1d3c5cbf6ca60a3c9fc835bc3f92a1cb.jpg.webp</picture>
-        <description>Ядер - 6x(3.46 ггц), 6 гб, 2 sim, super retina xdr, 2556x1179, камера 48+12+12 мп, nfc, 5g, 4g, gps, 3200 ма*ч</description>
-        <typePrefix>Смартфоны</typePrefix>
-        <vendor>Apple</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -485,7 +470,7 @@
       <offer id="9085278" available="true">
         <url>https://dns-shop.by/ru/product/d61776ec5690a202/smart-casy-samsung-galaxy-fit3/</url>
         <name>Смарт-часы Samsung Galaxy Fit3</name>
-        <price>140.6</price>
+        <price>161.9</price>
         <oldprice>180.3</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
@@ -500,7 +485,7 @@
       <offer id="9085276" available="true">
         <url>https://dns-shop.by/ru/product/501df5f6da461dad/smart-casy-samsung-galaxy-fit3/</url>
         <name>Смарт-часы Samsung Galaxy Fit3</name>
-        <price>144.9</price>
+        <price>166.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/a2f4ebaed95f6d6a9def93cd7aeec178/q85_7934ea35d75cacabca6bff9183c139c5cc073a7884d8ad9b42dd327b7300f321.jpg.webp</picture>
@@ -514,7 +499,7 @@
       <offer id="9085277" available="true">
         <url>https://dns-shop.by/ru/product/5a9211ab021933c2/smart-casy-samsung-galaxy-fit3/</url>
         <name>Смарт-часы Samsung Galaxy Fit3</name>
-        <price>144.9</price>
+        <price>166.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/86fa51c051eaa0a8faebf2307ff02788/q85_d2b6c350cca4ff8ca1a5c3d3470684a86ad0ab279289b0900e252750bab65b6d.jpg.webp</picture>
@@ -528,7 +513,7 @@
       <offer id="5632511" available="true">
         <url>https://dns-shop.by/ru/product/f616e82a4fe3d9cb/smart-casy-amazfit-active-2s-dop-remesok/</url>
         <name>Смарт-часы Amazfit Active 2S + доп. ремешок</name>
-        <price>408.9</price>
+        <price>428.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/d01e37d112c3db2ed271250d0764f089/q85_2010a86dca3d29b865fcf9951ffe5a328b94ebc2c2a7dfacf460b3105fd23f72.jpg.webp</picture>
@@ -542,7 +527,7 @@
       <offer id="5485538" available="true">
         <url>https://dns-shop.by/ru/product/bc0a6f836115d582/smart-casy-amazfit-t-rex-3/</url>
         <name>Смарт-часы Amazfit T-Rex 3</name>
-        <price>699.9</price>
+        <price>713.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/94d31428fb6be5f04cb20db6808ba793/q85_e91d14ceb70bf2fed490b83230e04d4f3319f7cca60a4127c6f6c9f9fec2306d.jpg.webp</picture>
@@ -640,7 +625,7 @@
       <offer id="5432019" available="true">
         <url>https://dns-shop.by/ru/product/b8f62cbd5298ed20/smart-casy-apple-watch-series-9-41-mm/</url>
         <name>Смарт-часы Apple Watch Series 9 41 mm</name>
-        <price>1095.9</price>
+        <price>958.9</price>
         <oldprice>1787.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
@@ -655,7 +640,7 @@
       <offer id="5639781" available="true">
         <url>https://dns-shop.by/ru/product/e8eb866d896cd582/smart-casy-amazfit-t-rex-3-pro/</url>
         <name>Смарт-часы Amazfit T-Rex 3 Pro</name>
-        <price>1226.9</price>
+        <price>1258.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>2</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4c22d8d9eca6d76f34de0aa99225ac68/q85_30f2fc595f5fe3921ffa09a4c666b6754b25c87ac187d5db330f3f46ad907ae7.jpg.webp</picture>
@@ -811,8 +796,7 @@
       <offer id="9018619" available="true">
         <url>https://dns-shop.by/ru/product/2b35f424401f8616/1095-planset-kenshi-e11-lte-128-gb-seryj-cehol/</url>
         <name>10.95" Планшет KENSHI E11 LTE 128 ГБ серый + чехол</name>
-        <price>561.5</price>
-        <oldprice>580.7</oldprice>
+        <price>577.8</price>
         <currencyId>BYN</currencyId>
         <categoryId>4</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ba2bf1b03e6b04b347a7a241332d69ea/q85_09a99878ab656199ff383d268d7a4d121793684abde1d5bfebcb7a02f24980a3.jpg.webp</picture>
@@ -883,7 +867,8 @@
       <offer id="5628804" available="true">
         <url>https://dns-shop.by/ru/product/782c5f74315ad9cb/121-planset-honor-pad-10-wi-fi-256-gb-seryj/</url>
         <name>12.1" Планшет HONOR Pad 10 Wi-Fi 256 ГБ серый</name>
-        <price>1299.0</price>
+        <price>1044.9</price>
+        <oldprice>1299.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>4</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8d313b3f700706b2bdee22abad4514bd/q85_e34fb7540d287537809bfa235528a7f18522bdfc9f66602736432816d12ea0fb.jpg.webp</picture>
@@ -923,10 +908,24 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="9155644" available="true">
+        <url>https://dns-shop.by/ru/product/4e7ec8a3f7180c05/121-planset-xiaomi-redmi-pad-pro-5g-128-gb-zelenyj/</url>
+        <name>12.1" Планшет Xiaomi Redmi Pad Pro 5G 128 ГБ зеленый</name>
+        <price>1099.0</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b4beed36285aac7e3b99b7949a1d2684/q85_b189c1ee247a33997bca676dce185c0a875d19dcd503c6ce2b6c2216f7be05b0.jpg.webp</picture>
+        <description>2560x1600, ips, 8x2.4 ггц, 6 гб, 10000 ма*ч, android 14</description>
+        <typePrefix>Планшеты</typePrefix>
+        <vendor>Xiaomi</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5430450" available="true">
         <url>https://dns-shop.by/ru/product/9ca71c3547bced20/78-elektronnaa-kniga-pocketbook-inkpad-4-cernyj/</url>
         <name>7.8" Электронная книга PocketBook InkPad 4 черный</name>
-        <price>1031.1</price>
+        <price>1012.6</price>
         <oldprice>1132.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>5</categoryId>
@@ -1057,7 +1056,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>6</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4645e11cd12fdbc7c6fa529de0438815/q85_0c6d3953eea9aeefe46c1db2070dea8eb54a2a572a585e69861434ae39306900.png.webp</picture>
-        <description>Direct led, qled, 4k ultrahd, wi-fi, 60 гц, yaos x, hdmi х 3, usb х 1 шт</description>
+        <description>Direct led, qled, 4k ultrahd, wi-fi, 60 гц, yaos x, hdmi х 3, usb х 2 шт</description>
         <typePrefix>Телевизоры</typePrefix>
         <vendor>Яндекс</vendor>
         <pickup>true</pickup>
@@ -1095,7 +1094,8 @@
       <offer id="5493990" available="true">
         <url>https://dns-shop.by/ru/product/588ef8c87bced9cb/65-164-sm-televizor-andeks-tv-stancia-bejsik-yndx-00077-cernyj/</url>
         <name>65" (164 см) Телевизор Яндекс ТВ Станция Бейсик YNDX-00077 черный</name>
-        <price>2356.0</price>
+        <price>2199.0</price>
+        <oldprice>2479.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>6</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/68e6eba3b74af7567d3eb0c54ac82cf7/q85_3a1a8d630acecaee3a53659f5cbaa933f1a4fc5ee98d09c93e69e9a892c761b6.png.webp</picture>
@@ -1137,7 +1137,7 @@
       <offer id="9298501" available="true">
         <url>https://dns-shop.by/ru/product/cd4fd52994667a20/50-125-sm-televizor-dexp-50uey1-cernyj/</url>
         <name>50" (125 см) Телевизор DEXP 50UEY1 черный</name>
-        <price>888.9</price>
+        <price>760.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>6</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1128909e40ced6390114e7e9f013f15a/q85_f47b85118381c3ef7a97b4dd699138cc6c80718e1e9e021384b6517a5bd74e1a.jpg.webp</picture>
@@ -1165,7 +1165,7 @@
       <offer id="9116371" available="true">
         <url>https://dns-shop.by/ru/product/b4803ee70789716e/saundbar-lg-s60tr-cernyj/</url>
         <name>Саундбар LG S60TR черный</name>
-        <price>892.9</price>
+        <price>999.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>7</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4424121f865b13ffb87ec22755412a1c/q85_e054e32b4803d94dab0520561929675e860a4370c1f85e933cd7fb297a1706d4.jpg.webp</picture>
@@ -1179,7 +1179,7 @@
       <offer id="5651481" available="true">
         <url>https://dns-shop.by/ru/product/3ba24928cbf2d9cb/igrovaa-konsol-playstation-5-slim-digital-edition/</url>
         <name>Игровая консоль PlayStation 5 Slim Digital Edition</name>
-        <price>1880.9</price>
+        <price>2046.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c63af5489afe079093a80e6116621e6f/q85_c19923d883dc9ab9d41bb11f9f56257248c0b458f229ce1689944fd26a3cafd8.jpg.webp</picture>
@@ -1193,7 +1193,7 @@
       <offer id="5642334" available="true">
         <url>https://dns-shop.by/ru/product/618a13039ce0d9cb/igrovaa-konsol-playstation-5-slim-digital-edition/</url>
         <name>Игровая консоль PlayStation 5 Slim Digital Edition</name>
-        <price>1880.9</price>
+        <price>2046.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4d45da72691965d209de7169848c6b38/q85_d31ead1b2531e1eb132cbc505c729f42ee31989506521af1e5c7a321087e41d9.jpg.webp</picture>
@@ -1221,7 +1221,8 @@
       <offer id="9324356" available="true">
         <url>https://dns-shop.by/ru/product/268a0a698409ee39/igrovaa-konsol-playstation-5-slim-digital-edition/</url>
         <name>Игровая консоль PlayStation 5 Slim Digital Edition</name>
-        <price>2022.9</price>
+        <price>1962.2</price>
+        <oldprice>2023.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fd99c3c04856f5b6e97e7a1a0060c4fb/q85_d4bfd9556023b605ae919edbd1e96f31d54f06622c883dce0beb675b36cbe088.jpg.webp</picture>
@@ -1235,7 +1236,7 @@
       <offer id="5643383" available="true">
         <url>https://dns-shop.by/ru/product/2fa72ff1a4e7d582/igrovaa-konsol-playstation-5-slim/</url>
         <name>Игровая консоль PlayStation 5 Slim</name>
-        <price>2072.9</price>
+        <price>2220.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8dbba6402be5be59315f8b0d973d294f/q85_84cf1a12a3a79953cebfba38182df1a14449d71d52da68cbcfdffc594cfd6bf8.jpg.webp</picture>
@@ -1249,7 +1250,7 @@
       <offer id="5642376" available="true">
         <url>https://dns-shop.by/ru/product/9ed07b6c9cecd582/igrovaa-konsol-playstation-5-slim/</url>
         <name>Игровая консоль PlayStation 5 Slim</name>
-        <price>2157.9</price>
+        <price>2220.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/e260a840d7f9b9795834510ef8f205c2/q85_f4a133ab759997bf8e3e9604da4d1f33c2067e451d1a3a4b5e6ce3b998bc538a.jpg.webp</picture>
@@ -1263,7 +1264,7 @@
       <offer id="5643444" available="true">
         <url>https://dns-shop.by/ru/product/e50224dda59cd9cb/igrovaa-konsol-playstation-5-slim/</url>
         <name>Игровая консоль PlayStation 5 Slim</name>
-        <price>2255.9</price>
+        <price>2275.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8dbba6402be5be59315f8b0d973d294f/q85_84cf1a12a3a79953cebfba38182df1a14449d71d52da68cbcfdffc594cfd6bf8.jpg.webp</picture>
@@ -1277,7 +1278,7 @@
       <offer id="5438536" available="true">
         <url>https://dns-shop.by/ru/product/9ddc800f81c0ed20/igrovaa-konsol-playstation-5-slim/</url>
         <name>Игровая консоль PlayStation 5 Slim</name>
-        <price>2251.9</price>
+        <price>2282.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>8</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/dc44e635f95cd02f5cd3402ce2107d4a/q85_cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp</picture>
@@ -1333,7 +1334,7 @@
       <offer id="5463292" available="true">
         <url>https://dns-shop.by/ru/product/a54441621c01d582/besprovodnye-nausniki-dark-prodzekt-hs5-wireless-v2-cernyj-2023/</url>
         <name>Беспроводные наушники Дарк Проджект HS5 Wireless V2 черный 2023</name>
-        <price>252.9</price>
+        <price>222.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>9</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/f263c94bab220a0f03580e858f1ac80d/q85_4c08be24400b93e8089a3b56a6a6ffd971dbb43871059713d6c7e7ab01dc8d2f.jpg.webp</picture>
@@ -1347,7 +1348,7 @@
       <offer id="5047112" available="true">
         <url>https://dns-shop.by/ru/product/256a9658eb6ced20/provodnye-nausniki-hyperx-cloud-ii-krasnyj-2022/</url>
         <name>Проводные наушники HyperX Cloud II красный 2022</name>
-        <price>243.9</price>
+        <price>259.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>9</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/21b20d4d17be98d445897dc3ccd16b5e/q85_1f5494ffc8729ebd0bfd07793bfcf6ed26187f57f7b4740c0d6725e62ebec991.jpg.webp</picture>
@@ -1428,20 +1429,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5494682" available="true">
-        <url>https://dns-shop.by/ru/product/cdf1ca6e7f94d0a4/sistema-virtualnoj-realnosti-vr-meta-oculus-quest-3s-belyj/</url>
-        <name>Система виртуальной реальности Meta Quest 3S белый</name>
-        <price>1406.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>10</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8ae1a3497ed0f89f8b4cda488ff42df6/q85_e0562eb358be6676d4d9b0f726ce7420ff251c7a8fda542f029c5227fd30a3cf.jpg.webp</picture>
-        <description>3664х1832, 120 гц, 96°, встроенная память 128 гб, контроллеры, 514 г</description>
-        <typePrefix>Системы VR</typePrefix>
-        <vendor>Meta</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5494683" available="true">
         <url>https://dns-shop.by/ru/product/1b8246887f95d0a4/sistema-virtualnoj-realnosti-vr-meta-oculus-quest-3s-belyj/</url>
         <name>Система виртуальной реальности Meta Quest 3S белый</name>
@@ -1460,7 +1447,7 @@
       <offer id="9095837" available="true">
         <url>https://dns-shop.by/ru/product/7f48587bd3f2543e/rul-ardor-gaming-silverstone-v2-cernyj/</url>
         <name>Руль ARDOR GAMING Silverstone V2 черный</name>
-        <price>619.1</price>
+        <price>654.6</price>
         <oldprice>777.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>11</categoryId>
@@ -1503,7 +1490,7 @@
       <offer id="5422367" available="true">
         <url>https://dns-shop.by/ru/product/ff87d05b13e2ed20/pedalnyj-blok-moza-sr-p-lite/</url>
         <name>Педальный блок Moza SR-P Lite</name>
-        <price>137.9</price>
+        <price>111.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>12</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/da046dd4889fae87c0f7dda90876d3d1/q85_837e13fd56e96d5368516925a657b30ef5ac29a9a5dc527d4deff1bb9f6a1ae3.jpg.webp</picture>
@@ -1644,7 +1631,7 @@
       <offer id="5628310" available="true">
         <url>https://dns-shop.by/ru/product/5a44f20d2facd21a/besprovodnyeprovodnye-nausniki-sony-wh-1000xm6-sinij-2025/</url>
         <name>Беспроводные/проводные наушники Sony WH-1000XM6 синий 2025</name>
-        <price>1246.4</price>
+        <price>1290.5</price>
         <oldprice>1490.8</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>14</categoryId>
@@ -1659,7 +1646,7 @@
       <offer id="5456775" available="true">
         <url>https://dns-shop.by/ru/product/046897bcfbd0d9cb/besprovodnyeprovodnye-nausniki-razer-blackshark-v2-hyperspeed-belyj-2023/</url>
         <name>Беспроводные/проводные наушники Razer BlackShark V2 HyperSpeed белый 2023</name>
-        <price>432.9</price>
+        <price>415.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>14</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/d63d72144521bdaa23293795b64a5fb8/q85_12cb3dad613ade1897b6660b4f304b4513ee933d7580fcdbc08b06be4678951a.jpg.webp</picture>
@@ -1687,7 +1674,7 @@
       <offer id="5641458" available="true">
         <url>https://dns-shop.by/ru/product/ccab04ee942ed582/aktivnyj-monitor-edifier-mr5-cernyj/</url>
         <name>Активный монитор Edifier MR5 черный</name>
-        <price>600.9</price>
+        <price>714.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>15</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/009f2b0c778d30bc7ce1c949d24da799/q85_1d04776cb139c08864be23188bd16fda550e67985e0aeb92fffb7207bdedf5fe.jpg.webp</picture>
@@ -1785,7 +1772,7 @@
       <offer id="5610666" available="true">
         <url>https://dns-shop.by/ru/product/51e2341bbb68d582/mikrofonnyj-komplekt-fifine-am8t-belyj/</url>
         <name>Микрофонный комплект Fifine AM8T белый</name>
-        <price>163.9</price>
+        <price>192.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>17</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6c642611e08dc2c3fe17e42ce6dc2c6e/q85_4df02b8501541246ddc63f3f50991c64410f47652fabbc0f9071d3f0edda1adb.jpg.webp</picture>
@@ -1799,7 +1786,7 @@
       <offer id="5465292" available="true">
         <url>https://dns-shop.by/ru/product/000d6d71249dd582/mikrofonnyj-komplekt-fifine-am8t-cernyj/</url>
         <name>Микрофонный комплект Fifine AM8T черный</name>
-        <price>163.9</price>
+        <price>186.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>17</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6cadc1510b0b625796059c8cedc38c11/q85_9571573f07071f214d2c98a492cf5ade74984d03545fa7a9a99a42ba2ea3d106.jpg.webp</picture>
@@ -1813,7 +1800,7 @@
       <offer id="5621207" available="true">
         <url>https://dns-shop.by/ru/product/f18fdd7e0079d582/mikrofon-fifine-am9t-cernyj/</url>
         <name>Микрофонный комплект Fifine AM9T черный</name>
-        <price>192.9</price>
+        <price>166.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>17</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/800db859cba36bfe8f2b9847fd35e01a/q85_305eaa7a81a5ba79b29e80b0b08f781dfef3f68ab522452ee90299a34f7288b3.jpg.webp</picture>
@@ -2023,7 +2010,7 @@
       <offer id="5652220" available="true">
         <url>https://dns-shop.by/ru/product/a2e4bf2ed170d582/16-noutbuk-tecno-megabook-k16sda-seryj/</url>
         <name>16" Ноутбук Tecno Megabook K16SDA серый</name>
-        <price>1841.9</price>
+        <price>1795.4</price>
         <oldprice>2109.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
@@ -2094,7 +2081,7 @@
       <offer id="5646902" available="true">
         <url>https://dns-shop.by/ru/product/3f47dd29b30cd582/16-noutbuk-tecno-megabook-k16saa-seryj/</url>
         <name>16" Ноутбук Tecno Megabook K16SAA серый</name>
-        <price>2049.9</price>
+        <price>2124.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/09274f94385232fa433cdc6166fb8d0a/q85_1f1b927de23f79554c1714b8cf9010033a82bf33418780ad511652621deb0a4b.jpg.webp</picture>
@@ -2108,7 +2095,7 @@
       <offer id="5653612" available="true">
         <url>https://dns-shop.by/ru/product/5fd0d0e3db36d9cb/16-noutbuk-honor-magicbook-x16-2026-seryj/</url>
         <name>16" Ноутбук HONOR MagicBook X16 2026 серый</name>
-        <price>2331.9</price>
+        <price>2405.9</price>
         <oldprice>3599.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
@@ -2137,7 +2124,7 @@
       <offer id="5624733" available="true">
         <url>https://dns-shop.by/ru/product/e0c5ae8715d8d9cb/156-noutbuk-acer-aspire-7-a715-59g-55gc-cernyj/</url>
         <name>15.6" Ноутбук Acer Aspire 7 A715-59G-55GC черный</name>
-        <price>3510.9</price>
+        <price>3371.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/d313ce594331a0dd389453a6e4e4bdb9/q85_48a9819e000c31203a1fbbf7e52cbad519904804fd67dca512eb7d4e38116173.jpg.webp</picture>
@@ -2207,7 +2194,7 @@
       <offer id="5618418" available="true">
         <url>https://dns-shop.by/ru/product/177282c1ef60d582/173-noutbuk-asus-tuf-gaming-fx707vur-hx224-seryj/</url>
         <name>17.3" Ноутбук ASUS TUF Gaming FX707VUR-HX224 серый</name>
-        <price>3441.9</price>
+        <price>3885.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b64c3dcc12ab6ccab2b6996bb92fb260/q85_ee5b9fbe359a7925dffa49cb670a9677227626681e5643f7ffbde6ab681576d6.jpg.webp</picture>
@@ -2291,7 +2278,7 @@
       <offer id="5634642" available="true">
         <url>https://dns-shop.by/ru/product/03455d706209d582/173-noutbuk-asus-tuf-gaming-fa707nug-hx149-seryj/</url>
         <name>17.3" Ноутбук ASUS TUF Gaming FA707NUG-HX149 серый</name>
-        <price>3267.9</price>
+        <price>3700.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>21</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0366f50a795bc895bb7ad9926507d02e/q85_8998d473623800554925abc807bb398b1cb08dd470a73c873229ffac4bca3199.jpg.webp</picture>
@@ -2305,7 +2292,7 @@
       <offer id="5046278" available="true">
         <url>https://dns-shop.by/ru/product/d870c9c7e7a0ed20/240-gb-25-sata-nakopitel-kingston-a400-sa400s37240g/</url>
         <name>240 ГБ 2.5" SATA накопитель Kingston A400 [SA400S37/240G]</name>
-        <price>240.9</price>
+        <price>256.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/8cd6f8f7283e4a49420f29d0945819e4/q85_5e2b1357c1e50314de33b9e65c983df97f4a226262dc728106c37e9857fbac13.jpg.webp</picture>
@@ -2347,7 +2334,7 @@
       <offer id="4746131" available="true">
         <url>https://dns-shop.by/ru/product/df4c99bd433f1b80/512-gb-25-sata-nakopitel-adata-su650-asu650ss-512gt-r/</url>
         <name>512 ГБ 2.5" SATA накопитель ADATA SU650 [ASU650SS-512GT-R]</name>
-        <price>261.9</price>
+        <price>303.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/689b7f181dda37d34fa0d74e45b4d140/q85_75540c15c4d90ac0accd930fe57250c714c179a6a6d409fb6eff4e1cdbdfe33b.jpg.webp</picture>
@@ -2403,7 +2390,7 @@
       <offer id="1615452" available="true">
         <url>https://dns-shop.by/ru/product/d6c92aae14a51b80/1000-gb-25-sata-nakopitel-crucial-bx500-ct1000bx500ssd1/</url>
         <name>1000 ГБ 2.5" SATA накопитель Crucial BX500 [CT1000BX500SSD1]</name>
-        <price>444.9</price>
+        <price>481.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2c233fd1e05d1cfa1206e7225e519620/q85_b563ad0f5fbf81483e969bebec1d4a64748f8b06a22751fda09a329dc0558328.jpg.webp</picture>
@@ -2487,7 +2474,7 @@
       <offer id="5606507" available="true">
         <url>https://dns-shop.by/ru/product/78c60575a7e3d582/500-gb-m2-nvme-nakopitel-kingston-nv3-snv3s500g/</url>
         <name>500 ГБ M.2 NVMe накопитель Kingston NV3 [SNV3S/500G]</name>
-        <price>428.9</price>
+        <price>445.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2de35d369e03cfdc03059e868813b9d5/q85_dd389e67040936f4014150cd0f434fa1d71ea960aa18caa7fc3c8ae8e006799c.jpg.webp</picture>
@@ -2526,20 +2513,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5619110" available="true">
-        <url>https://dns-shop.by/ru/product/a8875893f3fdd582/1000-gb-m2-nvme-nakopitel-adata-legend-860-sleg-860-1000gcs/</url>
-        <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 860 [SLEG-860-1000GCS]</name>
-        <price>481.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/7b28b6915a5ececcf2d69e03e3bd6ce9/q85_b2edb1ed00b1d3c0fb8254392cb0a676243fbe5577a8e9731b5b30fe4522ffbd.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 6000 мбайт/сек, запись - 4000 мбайт/сек, nvm express, tbw - 320 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>ADATA</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5631370" available="true">
         <url>https://dns-shop.by/ru/product/08696e4641ced9cb/1000-gb-m2-nvme-nakopitel-adata-legend-900-pro-sleg-900p-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 900 PRO [SLEG-900P-1TCS]</name>
@@ -2557,7 +2530,7 @@
       <offer id="5425203" available="true">
         <url>https://dns-shop.by/ru/product/af1671ec277ced20/1000-gb-m2-nvme-nakopitel-adata-legend-900-sleg-900-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 900 [SLEG-900-1TCS]</name>
-        <price>518.9</price>
+        <price>569.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/beef2b445b56d9b1804120dadb9cebbc/q85_323577100245fa4724e7e761f680ba930963c105f771e82dd75e75694be27fa4.jpg.webp</picture>
@@ -2571,7 +2544,7 @@
       <offer id="5440375" available="true">
         <url>https://dns-shop.by/ru/product/8d26c46b8db3ed20/1000-gb-m2-nvme-nakopitel-msi-spatium-m450-s78-440l980-p83/</url>
         <name>1000 ГБ M.2 NVMe накопитель MSI SPATIUM M450 [S78-440L980-P83]</name>
-        <price>534.0</price>
+        <price>629.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3b2e24327a309ccc31ab3e82572422ab/q85_82b727f91313896f6b6fcc7bb603b3e687574438f750c03181877264968c81cd.jpg.webp</picture>
@@ -2641,7 +2614,7 @@
       <offer id="5094673" available="true">
         <url>https://dns-shop.by/ru/product/c413c3309562ed20/1000-gb-m2-nvme-nakopitel-adata-legend-960-max-aleg-960m-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 960 MAX [ALEG-960M-1TCS]</name>
-        <price>574.9</price>
+        <price>637.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1f01b05c8e03e276e5277fe3d4f9f0bc/q85_210695ca09c833a2ed4a9193e8eb34259e198a8caf0ca9ed56a302fc3ba3bf22.jpg.webp</picture>
@@ -2669,7 +2642,7 @@
       <offer id="5076978" available="true">
         <url>https://dns-shop.by/ru/product/6351062f439ced20/1000-gb-m2-nvme-nakopitel-adata-legend-960-aleg-960-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 960 [ALEG-960-1TCS]</name>
-        <price>599.9</price>
+        <price>606.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/cb85dd1e15bf0bc28af1131b4e4d9859/q85_99aaa22be7005b452848a375de92ea8f9caca505f7bc2e945150c312657e4c8f.jpg.webp</picture>
@@ -2708,20 +2681,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5092100" available="true">
-        <url>https://dns-shop.by/ru/product/8bd59f9e81e4ed20/1000-gb-m2-nvme-nakopitel-kingston-fury-renegade-sfyrsk1000g/</url>
-        <name>1000 ГБ M.2 NVMe накопитель Kingston FURY Renegade [SFYRSK/1000G]</name>
-        <price>766.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3be291d3488a0e10e8523a4b463240c1/q85_6c07efc548daeef5e10c25348193c12ddc1d020ac29e9dec00a4d756a0e94aba.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 7300 мбайт/сек, запись - 6000 мбайт/сек, 3 бит tlc, nvm express, tbw - 1000 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Kingston</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5613823" available="true">
         <url>https://dns-shop.by/ru/product/6963f3c1d897d9cb/1000-gb-m2-nvme-nakopitel-samsung-990-evo-plus-mz-v9s1t0bw/</url>
         <name>1000 ГБ M.2 NVMe накопитель Samsung 990 EVO Plus [MZ-V9S1T0BW]</name>
@@ -2739,7 +2698,7 @@
       <offer id="9942157" available="true">
         <url>https://dns-shop.by/ru/product/39779619c38e0fd2/1000-gb-m2-nvme-nakopitel-samsung-990-pro-mz-v9p1t0bw/</url>
         <name>1000 ГБ M.2 NVMe накопитель Samsung 990 PRO [MZ-V9P1T0BW]</name>
-        <price>740.9</price>
+        <price>781.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/6841571407a55206246dd3fccd27045d/q85_c0e0fdbb70b14fa69e223b44b1ea251d48ea8fde682cf2a535075882a6c7a1aa.jpg.webp</picture>
@@ -2750,10 +2709,24 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5425204" available="true">
+        <url>https://dns-shop.by/ru/product/13229c9d277ded20/2000-gb-m2-nvme-nakopitel-adata-legend-900-sleg-900-2tcs/</url>
+        <name>2000 ГБ M.2 NVMe накопитель ADATA LEGEND 900 [SLEG-900-2TCS]</name>
+        <price>747.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/9448d1d830c1c7ea882f066b7e7626a0/q85_590e58724e054897c683b92c40322a1a0781fa9f3d5216ac7ecf318576912083.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 5400 мбайт/сек, nvm express, tbw - 1200 тб</description>
+        <typePrefix>SSD M.2 накопители</typePrefix>
+        <vendor>ADATA</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5619111" available="true">
         <url>https://dns-shop.by/ru/product/f0dd856ef3fdd582/2000-gb-m2-nvme-nakopitel-adata-legend-860-sleg-860-2000gcs/</url>
         <name>2000 ГБ M.2 NVMe накопитель ADATA LEGEND 860 [SLEG-860-2000GCS]</name>
-        <price>755.9</price>
+        <price>778.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/eeddf869f074e5e491660e821c0d9b76/q85_6e1e04d9c0ae39c688fc0f0ada5ba280ddf3be411b03f4675abe5455386ef881.jpg.webp</picture>
@@ -2865,7 +2838,7 @@
       <offer id="5434446" available="true">
         <url>https://dns-shop.by/ru/product/df7308245e7eed20/operativnaa-pamat-sodimm-samsung-oem-m425r2ga3bb0-cwm-16-gb/</url>
         <name>Оперативная память SODIMM Samsung OEM [M425R2GA3BB0-CWM] 16 ГБ</name>
-        <price>836.9</price>
+        <price>888.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>24</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/713d35e0f5ce4e35f18ac3d2d2336472/q85_266961ee978963efa38446f40ea2c317e5f1612a75ae524fe50a0392057e0ca5.jpg.webp</picture>
@@ -2974,24 +2947,10 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5633018" available="true">
-        <url>https://dns-shop.by/ru/product/eb978e7152fad21a/pk-asus-tuf-gaming-t500mv-13420h1520-90pf05h2-m01f00/</url>
-        <name>ПК ASUS TUF Gaming T500MV-13420H1520 [90PF05H2-M01F00]</name>
-        <price>4070.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fdcc8b3e65b31606a32536092d366624/q85_7dd9976a374095167a45ba524db4b9f36218b0bde2b8dfc4d0e4db5be5f06ff0.png.webp</picture>
-        <description>Intel core i5-13420h, 4 x 2.1 ггц, 16 гб ddr5, geforce rtx 5060 ti, ssd 1000 гб, без ос, 1 x displayport, 1 x hdmi, wi-fi, bluetooth, soc, блок питания - 500 вт</description>
-        <typePrefix>Персональные компьютеры</typePrefix>
-        <vendor>ASUS</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5637587" available="true">
         <url>https://dns-shop.by/ru/product/e664ca2e799ed9cb/pk-ardor-gaming-rage-h418/</url>
         <name>ПК ARDOR GAMING RAGE H418</name>
-        <price>5661.9</price>
+        <price>5883.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>26</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c682df3c1b838e4fc30492fe0efe4c4a/q85_a3c04642c764617207265ffeff7e17eb362c3a57a6aec3d59ef9ecad08dcc938.jpg.webp</picture>
@@ -3206,7 +3165,7 @@
       <offer id="5479396" available="true">
         <url>https://dns-shop.by/ru/product/f470c10a506dd9cb/238-monitor-titan-army-p2410r-cernyj/</url>
         <name>23.8" Монитор Titan Army P2410R черный</name>
-        <price>507.9</price>
+        <price>536.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/78bb58c6d2a22675f94130a0f61b4ddb/q85_9b5e87bcf345e0de2af4043c5427dad8cfb2b0b87a4e15e61ff38ef8565f35c2.jpg.webp</picture>
@@ -3276,7 +3235,7 @@
       <offer id="9295332" available="true">
         <url>https://dns-shop.by/ru/product/77e0fa5ca5561b4a/27-monitor-philips-27m2n3500pf-cernyj/</url>
         <name>27" Монитор Philips 27M2N3500PF черный</name>
-        <price>603.9</price>
+        <price>585.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/402795ecbd360ca5ffe0f2de4c72844a/q85_04f01173bc629761f44f9625a899966dfee9de01134f20bd07c398a212f96103.png.webp</picture>
@@ -3472,7 +3431,7 @@
       <offer id="5605707" available="true">
         <url>https://dns-shop.by/ru/product/b4fa25d9a565d9cb/27-monitor-lg-ultragear-27gs60qc-b-cernyj/</url>
         <name>27" Монитор LG UltraGear 27GS60QC-B черный</name>
-        <price>710.0</price>
+        <price>698.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4fb0ab1bf99e553d827a9b8b87618086/q85_9dda9e8afb5ada0e9c7203eba01ab6ebbf87331d37edef486d7956fbe3d27b84.jpg.webp</picture>
@@ -3486,8 +3445,7 @@
       <offer id="5080005" available="true">
         <url>https://dns-shop.by/ru/product/ea56687e4f71ed20/25-monitor-samsung-odyssey-g4-g40b-s25bg400ei-cernyj/</url>
         <name>25" Монитор Samsung Odyssey G4 G40B S25BG400EI черный</name>
-        <price>676.7</price>
-        <oldprice>799.0</oldprice>
+        <price>704.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/d0ca948a09d81aa1ad04f7d894bb38f9/q85_c2fe4017aeca313df5c8700e40712006f3df073583fe43347a2fa7c5ce6c5322.jpg.webp</picture>
@@ -3619,7 +3577,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c1338857f94fac974c8b2bfce4bb7a7a/q85_8c55200b032e2615a365e46e0b260d7e0af15b3be265efeeffd7721f5b6b1c6e.jpg.webp</picture>
-        <description>2560x1440@200 гц, ips, led, 1000:1, 400 кд/м², 178°/178°, displayport 1.4a, hdmi 2.0b x2, amd freesync</description>
+        <description>2560x1440@200 гц, ips, led, 1000:1, 400 кд/м², 178°/178°, displayport 1.4a, hdmi 2.0b x2, amd freesync premium, nvidia g-sync compatible</description>
         <typePrefix>Мониторы</typePrefix>
         <vendor>MSI</vendor>
         <pickup>true</pickup>
@@ -3686,7 +3644,8 @@
       <offer id="5455386" available="true">
         <url>https://dns-shop.by/ru/product/2f2b0f34f246d9cb/27-monitor-samsung-odyssey-g5-g55c-s27cg550ei-cernyj/</url>
         <name>27" Монитор Samsung Odyssey G5 G55C S27CG550EI черный</name>
-        <price>899.0</price>
+        <price>754.6</price>
+        <oldprice>899.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a58693ba83d7c0b5aafe1cbf59062e53/q85_838c4049af43a7f3647f79986a281d4bc242e3f402a4fe356c40f619f2946290.jpg.webp</picture>
@@ -3700,7 +3659,7 @@
       <offer id="5626543" available="true">
         <url>https://dns-shop.by/ru/product/0928223a23dfd582/27-monitor-msi-mag-274qrfw-x32-belyj/</url>
         <name>27" Монитор MSI MAG 274QRFW X32 белый</name>
-        <price>1073.9</price>
+        <price>1055.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6269a2bbde3ea9189f61ed9685da1231/q85_d69e0add9814f9b10ff4a2243d0a32652cabbf74c867a91d81f94661562bdc6c.jpg.webp</picture>
@@ -3728,7 +3687,7 @@
       <offer id="5080006" available="true">
         <url>https://dns-shop.by/ru/product/ea56687f4f71ed20/27-monitor-samsung-odyssey-g4-g40b-s27bg400ei-cernyj/</url>
         <name>27" Монитор Samsung Odyssey G4 G40B S27BG400EI черный</name>
-        <price>855.9</price>
+        <price>849.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0070633ce192fa2795c47b0aafe70c44/q85_99779bd07dc7da2cfdd46c7f5dee95eafae998aeac79115f3038fedb1dcf091b.jpg.webp</picture>
@@ -3784,7 +3743,7 @@
       <offer id="5473347" available="true">
         <url>https://dns-shop.by/ru/product/dadc22a1427fd582/245-monitor-asus-rog-strix-xg259qns-cernyj/</url>
         <name>24.5" Монитор ASUS ROG Strix XG259QNS черный</name>
-        <price>1295.9</price>
+        <price>1443.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/587a72b13eca63ddc2b98c98e46cb9a6/q85_8ea65584c0bc73a8ba2dc8c381abc083736081dd99f5512bd90f0bd1862aa6f1.jpg.webp</picture>
@@ -3798,7 +3757,7 @@
       <offer id="5620917" available="true">
         <url>https://dns-shop.by/ru/product/18f58188ff0fd9cb/27-monitor-msi-mag-274qpf-x30mv-cernyj/</url>
         <name>27" Монитор MSI MAG 274QPF X30MV черный</name>
-        <price>1450.9</price>
+        <price>1535.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8970c306f98360a9906aa35623084c54/q85_f898c1010f7615c143982249b1c71c52648cc70e104c53ef2b507304c624b3d5.jpg.webp</picture>
@@ -3818,20 +3777,6 @@
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/82bf9f5a8da719bbdb4b61bb98c8c9d5/q85_856a9667bf03283879a8226716abe6689e6061979f2f4de5c576ef9d92392495.jpg.webp</picture>
         <description>2560x1440@75 гц, ips, led, 1000:1, 400 кд/м², 178°/178°, displayport 1.2, hdmi 2.0 x2, usb х4 шт, adaptive-sync</description>
-        <typePrefix>Мониторы</typePrefix>
-        <vendor>ASUS</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="5473337" available="true">
-        <url>https://dns-shop.by/ru/product/a7c2a60d427dd582/27-monitor-asus-proart-pa279crv-cernyj/</url>
-        <name>27" Монитор ASUS ProArt PA279CRV черный</name>
-        <price>1498.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>27</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b0ca5535a2e5e1668ed7de4e85689a93/q85_f4ba0b0b808a0b197c9a0460811aca3536c1cfdc554becea472e2bb80b65eae9.jpg.webp</picture>
-        <description>3840x2160@60 гц, ips, led, 1000:1, 400 кд/м², 178°/178°, displayport 1.4 x2, hdmi 2.0 x2, usb type-c, usb х4 шт</description>
         <typePrefix>Мониторы</typePrefix>
         <vendor>ASUS</vendor>
         <pickup>true</pickup>
@@ -3883,7 +3828,7 @@
       <offer id="5463649" available="true">
         <url>https://dns-shop.by/ru/product/740f04951d62d582/27-monitor-samsung-odyssey-oled-g6-g60sd-s27dg600si-serebristyj/</url>
         <name>27" Монитор Samsung Odyssey OLED G6 G60SD S27DG600SI серебристый</name>
-        <price>2384.9</price>
+        <price>2493.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>27</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b2820d893a7461860d3a4d484d45b456/q85_43cc52250c15a6ca552c9fd9ee36bee9a0a3bd7ea2f18c5c58d8f8c8a865def9.jpg.webp</picture>
@@ -3995,12 +3940,12 @@
       </offer>
       <offer id="9247200" available="true">
         <url>https://dns-shop.by/ru/product/c768993ec38a7662/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет серый</name>
         <price>104.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/125e0808191e1b3d4407e1beff6e5eb9/q85_4440995feeef5886f774e84692595fa0dd9d542c501516123acdc135674c4f65.jpg.webp</picture>
-        <description>Механическая, ajazz as 001 red switch, клавиш - 82, usb type-a, цвет серый</description>
+        <description>Механическая, ajazz as 001 red switch, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4009,12 +3954,12 @@
       </offer>
       <offer id="9247202" available="true">
         <url>https://dns-shop.by/ru/product/2585119dc4dd258a/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет белый</name>
         <price>104.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3cac4bd731119aa41efb3814a5fa62e4/q85_0ecf87d4672e44318a04bdb57e7f80311eee6df96739db476a7da951d11be901.jpg.webp</picture>
-        <description>Механическая, ajazz as 101 yellow switch, клавиш - 82, usb type-a, цвет белый</description>
+        <description>Механическая, ajazz as 101 yellow switch, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4023,12 +3968,12 @@
       </offer>
       <offer id="9247201" available="true">
         <url>https://dns-shop.by/ru/product/1845b948a7c663fe/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет черный</name>
         <price>107.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1b965d1c2a31b02977fbd709ece698b8/q85_ca5c2436e7c6d03c0b0f56009e7c1e959a118779c758800106189506eeac4bad.jpg.webp</picture>
-        <description>Механическая, клавиш - 82, usb type-a, цвет черный</description>
+        <description>Механическая, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4037,12 +3982,12 @@
       </offer>
       <offer id="5622813" available="true">
         <url>https://dns-shop.by/ru/product/f9779fd50880d0a4/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет белый</name>
         <price>129.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/48693b3e5245a3f51ce7d502cee687dd/q85_f3146b84a3dc05a4cdee9434bd7468d0e5c9b2c7f9375b86055b44ec6eb2378e.jpg.webp</picture>
-        <description>Механическая, reaper switch, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет белый</description>
+        <description>Механическая, reaper switch, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4051,12 +3996,12 @@
       </offer>
       <offer id="5622812" available="true">
         <url>https://dns-shop.by/ru/product/f9779d040880d0a4/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет черный</name>
         <price>133.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4c8f955280ca6c93d0c2efc34b04ec2c/q85_22e2cc13577846af4e4f154c3d7625a39823cb9cc57e0645b1f022d4745900ee.jpg.webp</picture>
-        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет черный</description>
+        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4065,12 +4010,12 @@
       </offer>
       <offer id="9247197" available="true">
         <url>https://dns-shop.by/ru/product/b72d1571e8feee45/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет белый</name>
         <price>122.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a4971d45b50e298987fb92d638c9e8bc/q85_f8a5a4c49d244721428950cf1841128745f88f2e0e70761a1d1dbf1601fe59c8.jpg.webp</picture>
-        <description>Механическая, ajazz sea salt switch, клавиш - 82, usb type-a, цвет белый</description>
+        <description>Механическая, ajazz sea salt switch, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4079,12 +4024,12 @@
       </offer>
       <offer id="9302515" available="true">
         <url>https://dns-shop.by/ru/product/f0ed1e873ae042da/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет серый</name>
         <price>159.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/b6e65938dac6a0e524b3e82c734d72b4/q85_346e223434e63d9dc5ea3807b530405b840bc5743066e6e8f0a3ab19cc9a3220.jpg.webp</picture>
-        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет серый</description>
+        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4093,12 +4038,12 @@
       </offer>
       <offer id="9247198" available="true">
         <url>https://dns-shop.by/ru/product/8315e31687669cb2/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет серый</name>
         <price>122.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/e186a6afce84793c0bddbc6eefa610cc/q85_af07529fcb480ea4cbee3a3df9d93ce024e5ca884ac99198344415743636c8d9.jpg.webp</picture>
-        <description>Механическая, ajazz moon switch, клавиш - 82, usb type-a, цвет серый</description>
+        <description>Механическая, ajazz moon switch, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4107,12 +4052,12 @@
       </offer>
       <offer id="5626787" available="true">
         <url>https://dns-shop.by/ru/product/aa1adb7624d5d21a/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет белый</name>
         <price>129.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/f696695229c76188fd3693d779734aa8/q85_c8b3c3126b883565f8657dd57c2f308ae5eac722333d2387cdd2e55887524b66.jpg.webp</picture>
-        <description>Механическая, leobog ice vein switch, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет белый</description>
+        <description>Механическая, leobog ice vein switch, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4121,12 +4066,12 @@
       </offer>
       <offer id="9096842" available="true">
         <url>https://dns-shop.by/ru/product/1e616b2882faaae5/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет черный</name>
         <price>133.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/73ae87961e34a58f8371451195d6b027/q85_9762d7dd7bb9c4ddc57d19c581c50639635cab8f8fe4419f9b86c23e3d709901.jpg.webp</picture>
-        <description>Механическая, leobog gray wood switch v3, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет черный</description>
+        <description>Механическая, leobog gray wood switch v3, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4135,12 +4080,12 @@
       </offer>
       <offer id="5602296" available="true">
         <url>https://dns-shop.by/ru/product/a926d4a29819d0a4/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет белый</name>
         <price>133.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ba10727e8b56f3af37463ad996f467d6/q85_3cb2792b6a0339038797454c9971493403b7a8f8ff1d068db42c182c70e50c61.jpg.webp</picture>
-        <description>Механическая, leobog gray wood switch v3, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет белый</description>
+        <description>Механическая, leobog gray wood switch v3, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4149,12 +4094,12 @@
       </offer>
       <offer id="5602295" available="true">
         <url>https://dns-shop.by/ru/product/a926d3159819d0a4/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
-        <price>135.9</price>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет бежевый</name>
+        <price>170.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/95be0f25ea7d11966c0600821491ce83/q85_d7dac179bb9dfc6eb3237eb329d4a235d3953612cd75bb6cb16cd7aca793dcc7.jpg.webp</picture>
-        <description>Механическая, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет бежевый</description>
+        <description>Механическая, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4163,12 +4108,12 @@
       </offer>
       <offer id="9247199" available="true">
         <url>https://dns-shop.by/ru/product/8939501d19b72dcd/klaviatura-provodnaa-ajazz-ak820/</url>
-        <name>Клавиатура проводная AJAZZ AK820</name>
+        <name>Клавиатура проводная AJAZZ AK820 цвет фиолетовый</name>
         <price>126.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1c2b921e1ae4239144e5f0cd2825a1f1/q85_da2ec3028761d6a4f71c3c448983d5e1291761fe6f76f835e72f4c088a9d00cd.jpg.webp</picture>
-        <description>Механическая, ajazz sea salt switch, клавиш - 82, usb type-a, цвет фиолетовый</description>
+        <description>Механическая, ajazz sea salt switch, клавиш - 82, usb type-a</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AJAZZ</vendor>
         <pickup>true</pickup>
@@ -4177,12 +4122,12 @@
       </offer>
       <offer id="9330715" available="true">
         <url>https://dns-shop.by/ru/product/91b16ff2d4219453/klaviatura-provodnaa-besprovodnaa-aula-f75/</url>
-        <name>Клавиатура проводная + беспроводная AULA F75</name>
+        <name>Клавиатура проводная + беспроводная AULA F75 цвет белый</name>
         <price>176.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fe8eee1372ce7a2b749f7a416046dd25/q85_8487bd0ece32cf3f0d97decc3c552273ad6977c6140c1255dbefc30aa9f94531.jpg.webp</picture>
-        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал, цвет белый</description>
+        <description>Механическая, leobog reaper, клавиш - 80, bluetooth, usb type-a, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>AULA</vendor>
         <pickup>true</pickup>
@@ -4191,13 +4136,13 @@
       </offer>
       <offer id="5450882" available="true">
         <url>https://dns-shop.by/ru/product/a770792fdac3ed20/klaviatura-besprovodnaa-logitech-mx-keys-s/</url>
-        <name>Клавиатура беспроводная Logitech MX Keys S</name>
+        <name>Клавиатура беспроводная Logitech MX Keys S цвет белый</name>
         <price>431.6</price>
         <oldprice>444.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3ea27c9a81057e7b44aa2cbb0bc72fdd/q85_e8d031d420dab72d604bb0c24d1014621eb0b65a7cf9393991b34b5b7a5398c8.jpg.webp</picture>
-        <description>Ножничная, клавиш - 109, bluetooth, радиоканал, цвет белый</description>
+        <description>Ножничная, клавиш - 109, bluetooth, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>Logitech</vendor>
         <pickup>true</pickup>
@@ -4206,12 +4151,12 @@
       </offer>
       <offer id="5449905" available="true">
         <url>https://dns-shop.by/ru/product/a80b2a1ad467ed20/klaviatura-besprovodnaa-logitech-mx-keys-s/</url>
-        <name>Клавиатура беспроводная Logitech MX Keys S</name>
+        <name>Клавиатура беспроводная Logitech MX Keys S цвет черный</name>
         <price>300.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>28</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/de5f82f62099bcd80dd1b9c322b6f48f/q85_ed5b35a427e75897e81e0f36995d859240deb1d1149d9862e4025179df0a399b.jpg.webp</picture>
-        <description>Ножничная, клавиш - 109, bluetooth, радиоканал, цвет черный</description>
+        <description>Ножничная, клавиш - 109, bluetooth, радиоканал</description>
         <typePrefix>Клавиатуры</typePrefix>
         <vendor>Logitech</vendor>
         <pickup>true</pickup>
@@ -4235,7 +4180,7 @@
       <offer id="9286266" available="true">
         <url>https://dns-shop.by/ru/product/ccf99c54299cae25/mys-besprovodnaaprovodnaa-attack-shark-r5-ultra-shark-r5-green-zelenyj/</url>
         <name>Мышь беспроводная/проводная Attack Shark R5 Ultra [Shark R5 Green] зеленый</name>
-        <price>196.9</price>
+        <price>218.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>29</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a73b068eaf62e544f9cb2483a677950f/q85_eb16bce254948becbf7b62df9381e2e7cf6586f16159116c3a6bd80aef984b0a.jpg.webp</picture>
@@ -4249,7 +4194,7 @@
       <offer id="9259985" available="true">
         <url>https://dns-shop.by/ru/product/9218160512056859/mys-besprovodnaaprovodnaa-attack-shark-r5-ultra-shark-r5-black-cernyj/</url>
         <name>Мышь беспроводная/проводная Attack Shark R5 Ultra [Shark R5 Black] черный</name>
-        <price>196.9</price>
+        <price>218.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>29</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/34bb74433011632c820f3a0e6eebae50/q85_c65781fa62ddad1e1678b9057bba6ed5e36c66023f82365cbb22fbae10eea854.jpg.webp</picture>
@@ -4361,7 +4306,7 @@
       <offer id="5636100" available="true">
         <url>https://dns-shop.by/ru/product/367297ed6cd7d0a4/mys-besprovodnaaprovodnaa-razer-viper-v3-pro-rz01-05120100-r3g1-cernyj/</url>
         <name>Мышь беспроводная/проводная Razer Viper V3 Pro [RZ01-05120100-R3G1] черный</name>
-        <price>599.9</price>
+        <price>453.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>29</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2644b20e82cf8faac36d6b119f165cdc/q85_c4e20ad51e272d075a1ddcff2a851eda62b56b2fb130b8d3d32e1a17ec09d7b9.jpg.webp</picture>
@@ -4375,8 +4320,7 @@
       <offer id="5045799" available="true">
         <url>https://dns-shop.by/ru/product/d630c0cce662ed20/2-tb-vnesnij-hdd-wd-my-passport-wdbyvg0020bbk-wesn/</url>
         <name>2 ТБ Внешний HDD WD My Passport [WDBYVG0020BBK-WESN]</name>
-        <price>343.7</price>
-        <oldprice>363.5</oldprice>
+        <price>360.8</price>
         <currencyId>BYN</currencyId>
         <categoryId>30</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0a59fa1df7175704c4a28c4872ee6d00/q85_0f942e15984d0f093747908abdde4374569c2694eb4be88e0e599f786d522d89.jpg.webp</picture>
@@ -4390,7 +4334,7 @@
       <offer id="5412177" available="true">
         <url>https://dns-shop.by/ru/product/fe170d46df53ed20/2-tb-vnesnij-hdd-toshiba-canvio-basics-hdtb520ek3aa/</url>
         <name>2 ТБ Внешний HDD Toshiba Canvio Basics [HDTB520EK3AA]</name>
-        <price>370.9</price>
+        <price>422.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>30</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/8a31dbe50e5d55960e227a00b283fafe/q85_187eaff77d6e1ffd6ec99cdbf476ecd63f3461c14a8a5b414a3fbe27d17fd19f.jpg.webp</picture>
@@ -4404,7 +4348,7 @@
       <offer id="5630559" available="true">
         <url>https://dns-shop.by/ru/product/3bfccaee3c50d9cb/1000-gb-vnesnij-ssd-kingston-sxs10001000ga/</url>
         <name>1000 ГБ Внешний SSD Kingston SXS1000/1000GA</name>
-        <price>455.9</price>
+        <price>518.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>31</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fddb1eb41b94260cca4d077b006931d7/q85_9b02e3e2409c9a8614fc344d3404e9536d333544f9068c60a610b28d8e094780.jpg.webp</picture>
@@ -4514,20 +4458,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="9142197" available="true">
-        <url>https://dns-shop.by/ru/product/14302d050c3f4658/elektriceskij-duhovoj-skaf-gorenje-bos6737e05dbg-cernyj/</url>
-        <name>Электрический духовой шкаф Gorenje BOS6737E05DBG черный</name>
-        <price>1739.0</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>35</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1f7b433e3f070b3a326a75661c61c98d/q85_592fcacd67ad4ac6e846797e9052c65cd5967359e51cae718b1ea0191cf045ec.jpg.webp</picture>
-        <description>77 л, независимый, до 300 °c, дисплей, гриль, конвекция, класс - a</description>
-        <typePrefix>Духовые шкафы электрические</typePrefix>
-        <vendor>Gorenje</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="4862743" available="true">
         <url>https://dns-shop.by/ru/product/e5817f190c56c823/vstraivaemaa-mikrovolnovaa-pec-dexp-bld25bb-cernyj/</url>
         <name>Встраиваемая микроволновая печь DEXP BLD25BB черный</name>
@@ -4574,7 +4504,7 @@
       <offer id="5431466" available="true">
         <url>https://dns-shop.by/ru/product/288389e64e13ed20/vstraivaemaa-posudomoecnaa-masina-eigen-b451c/</url>
         <name>Встраиваемая посудомоечная машина Eigen B451C</name>
-        <price>1023.9</price>
+        <price>1043.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>37</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1a734902d79f83373876fecf00025e1b/q85_e552bc5e28bc6a3fafa1e12e12a9a4433d51f6bda3762e494a65c96b4d97119d.jpg.webp</picture>
@@ -4630,7 +4560,7 @@
       <offer id="9256859" available="true">
         <url>https://dns-shop.by/ru/product/c1c4e24d48e154e0/morozilnyj-lar-dexp-ce-36ama-belyj/</url>
         <name>Морозильный ларь DEXP CE-36AMA белый</name>
-        <price>1080.9</price>
+        <price>1015.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>39</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/cf6b03db971ea9fbf4c26fe22011c52e/q85_9b354095b556b2f19f02b9508da501bf67fa3e9278cf507990bf1af8843a3e5c.jpg.webp</picture>
@@ -4812,7 +4742,7 @@
       <offer id="5480024" available="true">
         <url>https://dns-shop.by/ru/product/93a2a3f452e3d582/aerogril-dreame-trouver-airfryer-fd10-pro-white-belyj/</url>
         <name>Аэрогриль Dreame Trouver AirFryer FD10 Pro White белый</name>
-        <price>318.9</price>
+        <price>278.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>46</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4802f3b1644f48a11f4cf2a72c773b9a/q85_1e5d2298e09826c98dbd6c63435b44f9b9d95d6ce96f4fced7f76785cd5ab949.jpg.webp</picture>
@@ -4882,7 +4812,7 @@
       <offer id="9168414" available="true">
         <url>https://dns-shop.by/ru/product/96aab46da4211d3d/multivarka-redmond-mc124s-cernyj/</url>
         <name>Мультиварка РЕДМОНД MC124S черный</name>
-        <price>259.9</price>
+        <price>240.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>47</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/429c87472f9670925826a96ecfc8f2a3/q85_4d017053ce3b545a8090e544804d363fea94c41ebb2775113f5f26fa1338b319.jpg.webp</picture>
@@ -5022,7 +4952,7 @@
       <offer id="9053608" available="true">
         <url>https://dns-shop.by/ru/product/ff8fd2c60c17acf0/stiralnaa-masina-eigen-rein-c-series-s1-belyj/</url>
         <name>Стиральная машина Eigen Rein C series S1 белый</name>
-        <price>1218.9</price>
+        <price>1159.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>48</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/9e1f11a65d5b92e49b2e85b046f11d8b/q85_7cc451bd89183f3f108c054e9b5abd02c6fa9e3b06ccdc95e58e7c8371ca4ae7.jpg.webp</picture>
@@ -5036,7 +4966,7 @@
       <offer id="5494548" available="true">
         <url>https://dns-shop.by/ru/product/4d0147807eedd0a4/stiralnaa-masina-lg-f2y1hs6j-cernyj/</url>
         <name>Стиральная машина LG F2Y1HS6J черный</name>
-        <price>1424.9</price>
+        <price>1380.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>48</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/cfcc191b2d1bb65689b182d1c42cbfab/q85_f561bd21eed6d369f724be976df23d71a3fbf5d50b9e3eb0770f2c8806a6316e.png.webp</picture>
@@ -5050,7 +4980,7 @@
       <offer id="5494530" available="true">
         <url>https://dns-shop.by/ru/product/90e1e6557ee7d582/stiralnaa-masina-lg-f2v9fw9w-belyj/</url>
         <name>Стиральная машина LG F2V9FW9W белый</name>
-        <price>2035.9</price>
+        <price>1927.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>48</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2d1cca090b6ca910584822df18b5ba90/q85_15fbe2e13cbb84131ffc4cd69d681b20275feddb378e5c8a91e1b1d8cd619687.jpg.webp</picture>
@@ -5121,7 +5051,7 @@
       <offer id="5091382" available="true">
         <url>https://dns-shop.by/ru/product/23ed9dc97f49ed20/stiralnaa-masina-lg-f2v3gs6w-belyj/</url>
         <name>Стиральная машина LG F2V3GS6W белый</name>
-        <price>1752.0</price>
+        <price>1729.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>48</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/7e8af2ff72b94f3654866203a06e86c9/q85_65a64302eec3a8b7e68b18fc69cbacda81fe193053853d851f24ae0701c03f1f.jpg.webp</picture>
@@ -5135,7 +5065,7 @@
       <offer id="5612710" available="true">
         <url>https://dns-shop.by/ru/product/649e845ad216d9cb/pylesos-philips-fc957101-cernyj/</url>
         <name>Пылесос Philips FC9571/01 черный</name>
-        <price>464.0</price>
+        <price>458.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>49</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/077bdec6f287a96fe3704e9a1d601d75/q85_720349ed4ef9a23f306ef5aaa569ae74fbbc84974e1bdf60f3bf65c15412910b.jpg.webp</picture>
@@ -5205,7 +5135,7 @@
       <offer id="5434722" available="true">
         <url>https://dns-shop.by/ru/product/b616fa0c61a5ed20/uvlaznitel-vozduha-smartmi-evaporative-humidifier-3/</url>
         <name>Увлажнитель воздуха Smartmi Evaporative Humidifier 3</name>
-        <price>533.9</price>
+        <price>379.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>52</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1a08a1562a8ba1d4d2f0ac0f0b757165/q85_2f14375f82792627965a63867624fca72be48c6adc868529e04d06ecc6400242.jpg.webp</picture>
@@ -5233,7 +5163,7 @@
       <offer id="9963327" available="true">
         <url>https://dns-shop.by/ru/product/f9fe27f911f4f0a9/svejnaa-masina-necchi-q132a/</url>
         <name>Швейная машина Necchi Q132A</name>
-        <price>508.2</price>
+        <price>553.8</price>
         <oldprice>629.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>54</categoryId>
@@ -5304,7 +5234,7 @@
       <offer id="5026130" available="true">
         <url>https://dns-shop.by/ru/product/6d7a8c58afebed20/processor-amd-ryzen-5-5600-oem/</url>
         <name>Процессор AMD Ryzen 5 5600 OEM</name>
-        <price>385.9</price>
+        <price>425.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/9c5112da96e6053d924942c85eec98ad/q85_923c2be60cfd72de7906f3c654d78c880ebec785c7d62041b4bb7713f33acf36.jpg.webp</picture>
@@ -5346,7 +5276,7 @@
       <offer id="5062822" available="true">
         <url>https://dns-shop.by/ru/product/61d281e916f9ed20/processor-amd-ryzen-5-5600x-oem/</url>
         <name>Процессор AMD Ryzen 5 5600X OEM</name>
-        <price>433.9</price>
+        <price>474.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/b150d684aaee713f5e2bebe876fabaad/q85_a60d568636c393c611792fb99f68dd97fb6fe3de90e8bd6f085c7c321e9e32b0.jpg.webp</picture>
@@ -5360,7 +5290,7 @@
       <offer id="5054483" available="true">
         <url>https://dns-shop.by/ru/product/0a2114a7fcc9ed20/processor-intel-core-i5-12400f-oem/</url>
         <name>Процессор Intel Core i5-12400F OEM</name>
-        <price>425.9</price>
+        <price>466.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/a03b81e79ce2e26b92265826d72e8366/q85_200e4a08e74afcc3cf1d54d47b758cbbf14c71973a64009553347d2b234b5af4.jpg.webp</picture>
@@ -5430,7 +5360,7 @@
       <offer id="5448239" available="true">
         <url>https://dns-shop.by/ru/product/73ad97ecc58fed20/processor-intel-core-i5-14400f-oem/</url>
         <name>Процессор Intel Core i5-14400F OEM</name>
-        <price>518.9</price>
+        <price>585.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fd48ec50e846695197ae3c8222c9d93a/q85_69b7cc60ed64e5f72d9a49d5569c3ddad7cb4aa508acde0572f60ce9328eb1a6.jpg.webp</picture>
@@ -5444,7 +5374,7 @@
       <offer id="5465353" available="true">
         <url>https://dns-shop.by/ru/product/89737ee324a6d9cb/processor-amd-ryzen-5-9600x-oem/</url>
         <name>Процессор AMD Ryzen 5 9600X OEM</name>
-        <price>693.9</price>
+        <price>720.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a400adbb6fe79b31a26b503da3198c91/q85_913d6794eb9ae058338c749ce9fe6db480812bfa5f81d2f710c8be6ec780db0e.jpg.webp</picture>
@@ -5458,7 +5388,7 @@
       <offer id="5413689" available="true">
         <url>https://dns-shop.by/ru/product/de177556e959ed20/processor-amd-ryzen-7-7700-oem/</url>
         <name>Процессор AMD Ryzen 7 7700 OEM</name>
-        <price>699.9</price>
+        <price>724.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ddd481cf3ade7dd0ceba866c5a324768/q85_60057f62d0973f08bb8c6b88a88e5e3c74183832e2ce055d851478941f58eec8.jpg.webp</picture>
@@ -5472,7 +5402,7 @@
       <offer id="5436614" available="true">
         <url>https://dns-shop.by/ru/product/163592727233ed20/processor-intel-core-i5-14600kf-oem/</url>
         <name>Процессор Intel Core i5-14600KF OEM</name>
-        <price>851.9</price>
+        <price>888.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/f68bb19e3b0c7011a31db2fbbe04f843/q85_4037d46c89ca05f8c1a0d40564cc322949ee5732e4715b0b6dff8f9cd91989c6.jpg.webp</picture>
@@ -5486,7 +5416,7 @@
       <offer id="5444274" available="true">
         <url>https://dns-shop.by/ru/product/3ecad0b7a46fed20/processor-amd-ryzen-7-7800x3d-oem/</url>
         <name>Процессор AMD Ryzen 7 7800X3D OEM</name>
-        <price>1054.9</price>
+        <price>1088.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/d86f86bc7a0607981863f016e3f65395/q85_a456db21c4184e22b75ccb0c07c70c520aacaa20efed5a50da6e0c6c3d17c2d7.jpg.webp</picture>
@@ -5500,7 +5430,7 @@
       <offer id="5063032" available="true">
         <url>https://dns-shop.by/ru/product/58fc099217abed20/processor-amd-ryzen-9-5950x-oem/</url>
         <name>Процессор AMD Ryzen 9 5950X OEM</name>
-        <price>1221.9</price>
+        <price>1258.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/938e5bcd72d5a8cd6099606e74af48b6/q85_488d5a9b45ddbeb5eafce0564bef42074b75f87be95b9299120bd881bf6dba64.jpg.webp</picture>
@@ -5514,7 +5444,7 @@
       <offer id="5054077" available="true">
         <url>https://dns-shop.by/ru/product/18be8ecdfb78ed20/processor-amd-ryzen-9-5950x-box/</url>
         <name>Процессор AMD Ryzen 9 5950X BOX</name>
-        <price>1313.9</price>
+        <price>1380.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/7bb52dc931fd58394df8d75dbd324682/q85_4331628f3b2e2c36ee859638c701ab2d861436c732dc90c2d3e822e38a2f00aa.jpg.webp</picture>
@@ -5528,7 +5458,7 @@
       <offer id="5603455" available="true">
         <url>https://dns-shop.by/ru/product/104767799cdfd582/processor-amd-ryzen-7-9800x3d-oem/</url>
         <name>Процессор AMD Ryzen 7 9800X3D OEM</name>
-        <price>1491.9</price>
+        <price>1424.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/5f94f7fec54bd96794177ded6c3d1a9d/q85_d25d58c44e7c15ea8828ee4cb6718486c53a48e3af8c02a216ceba902125a737.jpg.webp</picture>
@@ -5542,7 +5472,7 @@
       <offer id="5056102" available="true">
         <url>https://dns-shop.by/ru/product/e24ace9301c0ed20/processor-intel-core-i5-12400f-oem/</url>
         <name>Процессор Intel Core i5-12400F OEM</name>
-        <price>440.9</price>
+        <price>474.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6249352bfc8fcdc8be93554754646c67/q85_131530c8033486b8341fae0c0f97287d758c09d8f9469a7c83997299d3d96ff2.jpg.webp</picture>
@@ -5556,7 +5486,7 @@
       <offer id="9361661" available="true">
         <url>https://dns-shop.by/ru/product/11bdd2d9b1d9002c/processor-amd-ryzen-5-5600x-oem/</url>
         <name>Процессор AMD Ryzen 5 5600X OEM</name>
-        <price>454.9</price>
+        <price>506.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>56</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/54f672af2c55b12cc4678b5b9a92e7fd/q85_e11a51da8b6e423e3a82ce1c0d42963d8b3a16c0262b520df9c878c83601790c.jpg.webp</picture>
@@ -5570,7 +5500,7 @@
       <offer id="5094971" available="true">
         <url>https://dns-shop.by/ru/product/e21ad95a9626ed20/materinskaa-plata-gigabyte-a520m-k-v2/</url>
         <name>Материнская плата GIGABYTE A520M K V2</name>
-        <price>177.9</price>
+        <price>208.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/febaa137d05d37bd28bdc4ec3efd3455/q85_1c4155a0254e9b41850b692c935a175b5f8047f12fc77fb60804f7b1b89159f2.jpg.webp</picture>
@@ -5581,10 +5511,52 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5627092" available="true">
+        <url>https://dns-shop.by/ru/product/910774492584d0a4/materinskaa-plata-gigabyte-b550m-ds3h-r2/</url>
+        <name>Материнская плата GIGABYTE B550M DS3H R2</name>
+        <price>357.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4c0bbea6f3c5e73571ccaf0788acb6a7/q85_f0af60340a4f83704bfd36c78821229bc78f5216cd423d455f0a655b7857ee96.jpg.webp</picture>
+        <description>Am4, amd b550, 4xddr4-3200 мгц, 2xpci-ex16, 2xm.2, micro-atx</description>
+        <typePrefix>Материнские платы</typePrefix>
+        <vendor>GIGABYTE</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5402263" available="true">
+        <url>https://dns-shop.by/ru/product/7954bcf9b65fed20/materinskaa-plata-gigabyte-b550m-k/</url>
+        <name>Материнская плата GIGABYTE B550M K</name>
+        <price>277.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/8edf339707b927de766e84fdd11121d2/q85_99b4998d14115cd46c90b72b1e31df1aa2a78c04a633c47c157d088bf451ec50.jpg.webp</picture>
+        <description>Am4, amd b550, 4xddr4-3200 мгц, 1xpci-ex16, 2xm.2, micro-atx</description>
+        <typePrefix>Материнские платы</typePrefix>
+        <vendor>GIGABYTE</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
+      <offer id="5454933" available="true">
+        <url>https://dns-shop.by/ru/product/f8f06aacf094d582/materinskaa-plata-asrock-b650m-hm2/</url>
+        <name>Материнская плата ASRock B650M-H/M.2+</name>
+        <price>302.9</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/5e7cd857784faab9afe1347fbae7412b/q85_c838a6b2c35ccb7d7d79fdc924d486be9fc3fb4a30772d1d6a0bbfd60b2a3d9d.jpg.webp</picture>
+        <description>Am5, amd b650, 2xddr5-5200 мгц, 1xpci-ex16, 2xm.2, micro-atx</description>
+        <typePrefix>Материнские платы</typePrefix>
+        <vendor>Asrock</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="1689156" available="true">
         <url>https://dns-shop.by/ru/product/c44cd14acc801b80/materinskaa-plata-gigabyte-b550m-aorus-elite/</url>
         <name>Материнская плата GIGABYTE B550M AORUS ELITE</name>
-        <price>329.9</price>
+        <price>372.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/33085299738d23a528cc36060c61c354/q85_00e1f557c0ccde4240113152d63be0e1974a77e2d654a683ab7be9e575d711c9.jpg.webp</picture>
@@ -5598,7 +5570,7 @@
       <offer id="1679845" available="true">
         <url>https://dns-shop.by/ru/product/232aa9fcb9a11b80/materinskaa-plata-msi-b550m-pro-vdh-wifi/</url>
         <name>Материнская плата MSI B550M PRO-VDH WIFI</name>
-        <price>352.9</price>
+        <price>372.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/5398bcba6e2b6371a901f1f4cc717a9b/q85_77d9846375cab056397c0010aa1e539cbe953d50fc386d8214abfd6d6ac87205.jpg.webp</picture>
@@ -5612,7 +5584,7 @@
       <offer id="5417150" available="true">
         <url>https://dns-shop.by/ru/product/82dbd5c6f9f7ed20/materinskaa-plata-asrock-b650m-hdvm2/</url>
         <name>Материнская плата ASRock B650M-HDV/M.2</name>
-        <price>350.9</price>
+        <price>404.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/bc6ad1be81aa6b5da88705cfd100828c/q85_d1ed35dd4e98819cc9797d8ef68168262058a23d99e257460fe22ae774bd9629.jpg.webp</picture>
@@ -5666,24 +5638,10 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5446227" available="true">
-        <url>https://dns-shop.by/ru/product/ab7b1e97b98bed20/materinskaa-plata-gigabyte-b650m-gaming-wifi/</url>
-        <name>Материнская плата GIGABYTE B650M GAMING WIFI</name>
-        <price>397.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>57</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/382e2b645de2b63b311d724e64f43667/q85_d2290f1ff3050ac547963f9146b8b272307affa188d68ad13bd1e7db84c275a4.jpg.webp</picture>
-        <description>Am5, amd b650, 2xddr5-5200 мгц, 1xpci-ex16, 1xm.2, micro-atx</description>
-        <typePrefix>Материнские платы</typePrefix>
-        <vendor>GIGABYTE</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5449143" available="true">
         <url>https://dns-shop.by/ru/product/f83aa9e8cedbed20/materinskaa-plata-msi-pro-b760m-a-ddr4-ii/</url>
         <name>Материнская плата MSI PRO B760M-A DDR4 II</name>
-        <price>461.9</price>
+        <price>443.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/f2bf2a2912c999e85f22dbdc2c8d3c07/q85_89d48da69c9e418fa75c6e38dce492619a7668cbbc8c7535f90fa74309786324.jpg.webp</picture>
@@ -5697,7 +5655,7 @@
       <offer id="4702334" available="true">
         <url>https://dns-shop.by/ru/product/35162b08e5d63332/materinskaa-plata-gigabyte-b550-gaming-x-v2/</url>
         <name>Материнская плата GIGABYTE B550 GAMING X V2</name>
-        <price>356.9</price>
+        <price>398.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/67f3eca59177a3e4c9f8441361f22272/q85_65db425d4348cd10c2ff479dc73b5484e5cbed7e48af1bd54e2271b42feb49e1.jpg.webp</picture>
@@ -5711,7 +5669,7 @@
       <offer id="1663305" available="true">
         <url>https://dns-shop.by/ru/product/01e7c5109bc91b80/materinskaa-plata-asrock-b550m-pro4/</url>
         <name>Материнская плата ASRock B550M Pro4</name>
-        <price>351.9</price>
+        <price>333.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/0a238236ed9447968d8bebb63620b148/q85_3c4e1e8c900960e357ccea047023ef94ecd0c0ade3a92806478e3fbb24a9970a.jpg.webp</picture>
@@ -5739,7 +5697,7 @@
       <offer id="5415511" available="true">
         <url>https://dns-shop.by/ru/product/090c477cf389ed20/materinskaa-plata-asrock-b650m-pro-rs/</url>
         <name>Материнская плата ASRock B650M Pro RS</name>
-        <price>423.9</price>
+        <price>533.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6442b484a5841968187b41aed2d347fd/q85_2eba027c1975912c0203207c855de7826035443f55146b6308fb84b213fc3f0a.jpg.webp</picture>
@@ -5753,7 +5711,7 @@
       <offer id="5432702" available="true">
         <url>https://dns-shop.by/ru/product/7d98e5645604ed20/materinskaa-plata-msi-pro-b650-s-wifi/</url>
         <name>Материнская плата MSI PRO B650-S WIFI</name>
-        <price>479.9</price>
+        <price>471.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ca3a5f08d43184472a00cbe897e9a9c5/q85_8ccbc8af3ed05efa426100e1bf548ac7ab8a298a71fd846e31d29382ea5e5447.jpg.webp</picture>
@@ -5781,7 +5739,8 @@
       <offer id="5438138" available="true">
         <url>https://dns-shop.by/ru/product/3b6201c77d48ed20/materinskaa-plata-gigabyte-b650-aorus-elite-ax-v2/</url>
         <name>Материнская плата GIGABYTE B650 AORUS ELITE AX V2</name>
-        <price>650.9</price>
+        <price>523.5</price>
+        <oldprice>734.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4e197b303e640c45abc05d8acef2ad99/q85_83d7ff3d3121bbfbc1b73f109d34c0532bd57888ba5d257c3ef49e11afa9f2ae.jpg.webp</picture>
@@ -5809,7 +5768,7 @@
       <offer id="5446228" available="true">
         <url>https://dns-shop.by/ru/product/35ac95d7b98eed20/materinskaa-plata-gigabyte-b650-gaming-x-ax-v2/</url>
         <name>Материнская плата GIGABYTE B650 GAMING X AX V2</name>
-        <price>592.6</price>
+        <price>628.5</price>
         <oldprice>711.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
@@ -5838,7 +5797,7 @@
       <offer id="5630002" available="true">
         <url>https://dns-shop.by/ru/product/ed03318339e9d0a4/materinskaa-plata-msi-pro-b850m-p-wifi/</url>
         <name>Материнская плата MSI PRO B850M-P WIFI</name>
-        <price>536.0</price>
+        <price>563.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/5a6b6bc14f95d52e4e973861280d15a5/q85_893759bfed7b9a5448f280fdac5cadadab5b14ec739e400fa537fb1a10bce906.jpg.webp</picture>
@@ -5867,7 +5826,7 @@
       <offer id="5644232" available="true">
         <url>https://dns-shop.by/ru/product/3d318152aa7fd21a/materinskaa-plata-msi-b850-gaming-pro-wifi6e/</url>
         <name>Материнская плата MSI B850 GAMING PRO WIFI6E</name>
-        <price>594.9</price>
+        <price>702.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/c664965e21f94a56511f0984e8e0ddae/q85_cf8831d3f8c13ebfb63f328c0ba00d1a32f97e2ae2f7a56e5a19610bffb8da97.jpg.webp</picture>
@@ -5910,7 +5869,7 @@
       <offer id="5054614" available="true">
         <url>https://dns-shop.by/ru/product/203a0302fcefed20/materinskaa-plata-msi-mag-b550-tomahawk-max-wifi/</url>
         <name>Материнская плата MSI MAG B550 TOMAHAWK MAX WIFI</name>
-        <price>622.9</price>
+        <price>666.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fbeed163e62bf58835e3f14bb88067ee/q85_6e6486aed6529645e5115ac28a0c06dbaef3fc89345584373bcad69f80960675.png.webp</picture>
@@ -5994,7 +5953,7 @@
       <offer id="5618772" available="true">
         <url>https://dns-shop.by/ru/product/5c934b48f260d0a4/materinskaa-plata-asus-tuf-gaming-b850-plus-wifi/</url>
         <name>Материнская плата ASUS TUF GAMING B850-PLUS WIFI</name>
-        <price>685.0</price>
+        <price>752.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/f55923db267cf5c353661d7885e39da4/q85_bdf2c56de6268235ff89fdeb750c8716954abd6ba87bcc3b9aff08b121e49f67.jpg.webp</picture>
@@ -6008,7 +5967,7 @@
       <offer id="5084597" available="true">
         <url>https://dns-shop.by/ru/product/683e8be663deed20/materinskaa-plata-asus-rog-strix-b650e-f-gaming-wifi/</url>
         <name>Материнская плата ASUS ROG STRIX B650E-F GAMING WIFI</name>
-        <price>755.5</price>
+        <price>718.7</price>
         <oldprice>1017.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
@@ -6037,7 +5996,7 @@
       <offer id="5629443" available="true">
         <url>https://dns-shop.by/ru/product/0e99e58235ead582/materinskaa-plata-msi-mag-b850-tomahawk-max-wifi/</url>
         <name>Материнская плата MSI MAG B850 TOMAHAWK MAX WIFI</name>
-        <price>943.9</price>
+        <price>999.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>57</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/60e253167cf017f54df2f66b1f72060f/q85_ee671cd898089942c7a5f0bda089b4b2a5701611b00b9498d05279fdd367d4a3.jpg.webp</picture>
@@ -6152,7 +6111,7 @@
       <offer id="5423692" available="true">
         <url>https://dns-shop.by/ru/product/a8002d751e3aed20/videokarta-sapphire-amd-radeon-rx-7600-pulse-gaming-oc-11324-01-20g/</url>
         <name>Видеокарта Sapphire AMD Radeon RX 7600 PULSE GAMING OC [11324-01-20G]</name>
-        <price>1110.9</price>
+        <price>1006.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/3ec89973de31da67264ced35dd89086d/q85_191df1b083a52d23b2f679d000f1fdc4bbd3a4bdfccd23129d3c7c921e231085.jpg.webp</picture>
@@ -6209,7 +6168,7 @@
       <offer id="5633565" available="true">
         <url>https://dns-shop.by/ru/product/e8a9342d587fd582/videokarta-gigabyte-geforce-rtx-5060-windforce-max-oc-gv-n5060wf2max-oc-8gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5060 WINDFORCE MAX OC [GV-N5060WF2MAX OC-8GD]</name>
-        <price>1221.9</price>
+        <price>1258.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/143a3c364a48c0f0bb6635031ada544a/q85_fc6c298f894ea5b5a72111cd43199066559d7796becaec9472843d42acb09576.jpg.webp</picture>
@@ -6293,7 +6252,7 @@
       <offer id="5633399" available="true">
         <url>https://dns-shop.by/ru/product/697abebd5722d582/videokarta-palit-geforce-rtx-5060-infinity-2-oc-ne75060v19p1-gb2063l/</url>
         <name>Видеокарта Palit GeForce RTX 5060 Infinity 2 OC [NE75060V19P1-GB2063L]</name>
-        <price>1291.9</price>
+        <price>1314.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4266448e6dd2256a968c1f1868ebf759/q85_f187da176848109296c210867f3c9f73bebab4b7f74f75c7340bfd056f8df4f2.jpg.webp</picture>
@@ -6464,7 +6423,7 @@
       <offer id="5438275" available="true">
         <url>https://dns-shop.by/ru/product/07ad26287e35ed20/videokarta-asrock-amd-radeon-rx-7700-xt-steel-legend-oc-rx7700xt-sl-12go/</url>
         <name>Видеокарта ASRock AMD Radeon RX 7700 XT Steel Legend OC [RX7700XT SL 12GO]</name>
-        <price>1851.7</price>
+        <price>1736.0</price>
         <oldprice>2109.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6479,7 +6438,7 @@
       <offer id="5634847" available="true">
         <url>https://dns-shop.by/ru/product/babf796062ebd9cb/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-max-oc-gv-n506twf2max-oc-16gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC [GV-N506TWF2MAX OC-16GD]</name>
-        <price>1924.9</price>
+        <price>1940.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a3af3cb8a89ef523ddd9331f30d05996/q85_5201d85937b09aa672affd1ee34d61ab9e19153c9078ecd6acb165a6b83a9def.jpg.webp</picture>
@@ -6578,7 +6537,7 @@
       <offer id="5621523" available="true">
         <url>https://dns-shop.by/ru/product/4a2223da02cfd9cb/videokarta-kfa2-geforce-rtx-5070-rockx-oc-3fan-rgb-black-57non7mdbuek/</url>
         <name>Видеокарта KFA2 GeForce RTX 5070 ROCK(X) OC 3FAN RGB Black [57NON7MDBUEK]</name>
-        <price>2368.9</price>
+        <price>2442.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a15d8f2f732f79b10731e54b0e25e38f/q85_3d1af085626fcaee2fee99419f3aca2de0cbc82a0e082f5ad398de90e8ad5c0a.jpg.webp</picture>
@@ -6620,7 +6579,7 @@
       <offer id="5616725" available="true">
         <url>https://dns-shop.by/ru/product/db789f5be780d582/videokarta-palit-geforce-rtx-5070-gamingpro-ne75070019k9-gb2050a/</url>
         <name>Видеокарта Palit GeForce RTX 5070 GamingPro [NE75070019K9-GB2050A]</name>
-        <price>2592.9</price>
+        <price>2935.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ccb0685c48d1bf939bcb4f5f91dab9f3/q85_5f3e0ab3159136bce10d391889c7b98a17d8dffee253803759020eb90b6ed120.jpg.webp</picture>
@@ -6649,7 +6608,7 @@
       <offer id="5631268" available="true">
         <url>https://dns-shop.by/ru/product/ab0254bf410dd9cb/videokarta-asus-geforce-rtx-5070-dual-oc-edition-dual-rtx5070-o12g/</url>
         <name>Видеокарта ASUS GeForce RTX 5070 DUAL OC Edition [DUAL-RTX5070-O12G]</name>
-        <price>2479.9</price>
+        <price>2423.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/08a228151a348675b3c6142244ae62e4/q85_eaa2a959cbe3fcdaa0b27ba1934a9d3dc02b128440e3d8c87fca263a1f321f86.jpg.webp</picture>
@@ -6663,7 +6622,7 @@
       <offer id="5628034" available="true">
         <url>https://dns-shop.by/ru/product/80a1ada32afbd9cb/videokarta-palit-geforce-rtx-5070-gamingpro-s-ne75070019k9-gb2050u/</url>
         <name>Видеокарта Palit GeForce RTX 5070 GamingPro S [NE75070019K9-GB2050U]</name>
-        <price>2274.1</price>
+        <price>2345.2</price>
         <oldprice>2745.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6678,7 +6637,7 @@
       <offer id="5613397" available="true">
         <url>https://dns-shop.by/ru/product/a755ffb2d4b8d582/videokarta-gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-gv-n5070eagleoc-ice-12gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF [GV-N5070EAGLEOC ICE-12GD]</name>
-        <price>2452.9</price>
+        <price>2590.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/532bacd19bc250dbd668bca187d9a602/q85_bdebd855a2ce7126fd0b201f9412ef33bb51d86f967c687c0c1477f4ee74d1d1.jpg.webp</picture>
@@ -6720,7 +6679,7 @@
       <offer id="5613398" available="true">
         <url>https://dns-shop.by/ru/product/ece0eb88d4b8d582/videokarta-gigabyte-geforce-rtx-5070-eagle-oc-sff-gv-n5070eagle-oc-12gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5070 EAGLE OC SFF [GV-N5070EAGLE OC-12GD]</name>
-        <price>2526.6</price>
+        <price>2551.6</price>
         <oldprice>3341.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6822,7 +6781,7 @@
       <offer id="5619422" available="true">
         <url>https://dns-shop.by/ru/product/cb1f669af7c5d9cb/videokarta-kfa2-geforce-rtx-5070-ti-rockx-oc-3fan-rgb-black-57izn6mdbuek/</url>
         <name>Видеокарта KFA2 GeForce RTX 5070 Ti ROCK(X) OC 3FAN RGB Black [57IZN6MDBUEK]</name>
-        <price>3700.9</price>
+        <price>3885.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/a15d8f2f732f79b10731e54b0e25e38f/q85_3d1af085626fcaee2fee99419f3aca2de0cbc82a0e082f5ad398de90e8ad5c0a.jpg.webp</picture>
@@ -6833,10 +6792,24 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
+      <offer id="5613391" available="true">
+        <url>https://dns-shop.by/ru/product/337858f9d4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-gv-n507twf3oc-16gd/</url>
+        <name>Видеокарта GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF [GV-N507TWF3OC-16GD]</name>
+        <price>3979.1</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>58</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/03ae354eb97fb423ef48320b95e7ba7a/q85_8555b6e5f68f06ab90e24c9788ca2f7a9514590f1c859b270b72d1eff409be37.jpg.webp</picture>
+        <description>Pcie 5.0, gpu 2300 мгц, 16 гб gddr7, 256 бит, 3 x displayport, hdmi</description>
+        <typePrefix>Видеокарты</typePrefix>
+        <vendor>GIGABYTE</vendor>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <manufacturer_warranty>true</manufacturer_warranty>
+      </offer>
       <offer id="5613393" available="true">
         <url>https://dns-shop.by/ru/product/f28e6f9dd4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-eagle-oc-sff-gv-n507teagle-oc-16gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5070 Ti EAGLE OC SFF [GV-N507TEAGLE OC-16GD]</name>
-        <price>3730.5</price>
+        <price>3801.5</price>
         <oldprice>4415.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6851,8 +6824,7 @@
       <offer id="5613392" available="true">
         <url>https://dns-shop.by/ru/product/a1441ef7d4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-aero-oc-gv-n507taero-oc-16gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5070 Ti AERO OC [GV-N507TAERO OC-16GD]</name>
-        <price>4155.9</price>
-        <oldprice>4340.9</oldprice>
+        <price>4229.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/830148a84f35e1e33a073d9d79c91347/q85_799e890e0c8b9e7d267e9da95968a820e83ecdc0cd495e92ff76817044f9090f.jpg.webp</picture>
@@ -6895,7 +6867,7 @@
       <offer id="5446132" available="true">
         <url>https://dns-shop.by/ru/product/a4abb90eb8e7ed20/videokarta-msi-geforce-rtx-4070-ti-super-gaming-slim-geforce-rtx-4070-ti-super-16g-gaming-slim/</url>
         <name>Видеокарта MSI GeForce RTX 4070 Ti SUPER GAMING SLIM [GeForce RTX 4070 Ti SUPER 16G GAMING SLIM]</name>
-        <price>3886.9</price>
+        <price>4019.4</price>
         <oldprice>5208.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6924,7 +6896,7 @@
       <offer id="5613382" available="true">
         <url>https://dns-shop.by/ru/product/e8c5d08cd4add9cb/videokarta-asus-geforce-rtx-5080-prime-oc-edition-prime-rtx5080-o16g/</url>
         <name>Видеокарта ASUS GeForce RTX 5080 PRIME OC Edition [PRIME-RTX5080-O16G]</name>
-        <price>5320.9</price>
+        <price>5450.9</price>
         <oldprice>5920.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6939,7 +6911,7 @@
       <offer id="5612409" available="true">
         <url>https://dns-shop.by/ru/product/0f22a4dacef2d582/videokarta-msi-geforce-rtx-5080-vanguard-soc-rtx-5080-16g-vanguard-soc/</url>
         <name>Видеокарта MSI GeForce RTX 5080 VANGUARD SOC [RTX 5080 16G VANGUARD SOC]</name>
-        <price>5990.9</price>
+        <price>5890.9</price>
         <oldprice>6845.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -6995,20 +6967,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5421182" available="true">
-        <url>https://dns-shop.by/ru/product/86977d190b22ed20/videokarta-gigabyte-geforce-rtx-4060-windforce-oc-gv-n4060wf2oc-8gd/</url>
-        <name>Видеокарта GIGABYTE GeForce RTX 4060 WINDFORCE OC [GV-N4060WF2OC-8GD]</name>
-        <price>1325.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>58</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/8ea5d454af6e7edfedb6ab1357cd54a7/q85_06c61636f5e4470db3bca84d33c3ff8363327e3520a91f448109a07d2fce84ed.jpg.webp</picture>
-        <description>Pcie 4.0, gpu 1830 мгц, 8 гб gddr6, 128 бит, 2 x displayport, 2 x hdmi</description>
-        <typePrefix>Видеокарты</typePrefix>
-        <vendor>GIGABYTE</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5639847" available="true">
         <url>https://dns-shop.by/ru/product/9308e4d58a13d582/videokarta-asrock-amd-radeon-rx-9070-gre-steel-legend-oc-rx9070gre-sld-12go/</url>
         <name>Видеокарта ASRock AMD Radeon RX 9070 GRE Steel Legend OC [RX9070GRE SLD 12GO]</name>
@@ -7040,7 +6998,7 @@
       <offer id="5613395" available="true">
         <url>https://dns-shop.by/ru/product/198854d2d4b8d582/videokarta-gigabyte-geforce-rtx-5070-aero-oc-gv-n5070aero-oc-12gd/</url>
         <name>Видеокарта GIGABYTE GeForce RTX 5070 AERO OC [GV-N5070AERO OC-12GD]</name>
-        <price>2943.9</price>
+        <price>2560.9</price>
         <oldprice>3460.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>58</categoryId>
@@ -7097,7 +7055,7 @@
       <offer id="5053527" available="true">
         <url>https://dns-shop.by/ru/product/595dda64fae1ed20/operativnaa-pamat-kingston-fury-beast-black-kf432c16bb16-16-gb/</url>
         <name>Оперативная память Kingston FURY Beast Black [KF432C16BB/16] 16 ГБ</name>
-        <price>518.9</price>
+        <price>454.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/46dad6679346c5a0aa7e964cd6c8a401/q85_903398e6ea95b29f6c7ec3355ec8436bfca43840745d08e412bf883964d82ae2.jpg.webp</picture>
@@ -7125,7 +7083,7 @@
       <offer id="5422757" available="true">
         <url>https://dns-shop.by/ru/product/e74c66fe162ded20/operativnaa-pamat-adata-xpg-gammix-d35-ax4u32008g16a-dtwhd35-16-gb/</url>
         <name>Оперативная память ADATA XPG GAMMIX D35 [AX4U32008G16A-DTWHD35] 16 ГБ</name>
-        <price>462.9</price>
+        <price>481.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/7f1aac86a9018d3b66837858bfbc98c9/q85_b8fe78a4ce70a87007ca469b84e091461fcbe7cf2ddc2b40a56376a50db8a3e2.jpg.webp</picture>
@@ -7192,20 +7150,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5639138" available="true">
-        <url>https://dns-shop.by/ru/product/68897af68709d582/operativnaa-pamat-kingston-fury-beast-black-rgb-kf432c16bb2ak216wp-16-gb/</url>
-        <name>Оперативная память Kingston FURY Beast Black RGB [KF432C16BB2AK2/16WP] 16 ГБ</name>
-        <price>573.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>59</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4dbb7c8048bd8df18df1ce7303d9f5b8/q85_e7cdcafcd2e6c1ec24e3494867ada6b731c913fd555b23a7003afa54884cbdbe.jpg.webp</picture>
-        <description>Ddr4, 8 гбx2 шт, 3200 мгц, 16(cl)-18-18-32</description>
-        <typePrefix>Оперативная память DIMM</typePrefix>
-        <vendor>Kingston FURY</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="4772517" available="true">
         <url>https://dns-shop.by/ru/product/6e58bffa7bf03332/operativnaa-pamat-adata-xpg-spectrix-d41-rgb-ax4u32008g16a-dt41-16-gb/</url>
         <name>Оперативная память ADATA XPG SPECTRIX D41 RGB [AX4U32008G16A-DT41] 16 ГБ</name>
@@ -7223,7 +7167,7 @@
       <offer id="5625050" available="true">
         <url>https://dns-shop.by/ru/product/94b433d51901d9cb/operativnaa-pamat-apacer-fl16g2cpkh-16-gb/</url>
         <name>Оперативная память Apacer [FL.16G2C.PKH] 16 ГБ</name>
-        <price>684.9</price>
+        <price>706.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/de481b2e845c147eaf3680ac615e1217/q85_bd7b736ab171a2be8d8350e6bba92a2a2ccbc9482ce0e94dfe8fe4d9fc20a629.jpg.webp</picture>
@@ -7251,7 +7195,7 @@
       <offer id="5429743" available="true">
         <url>https://dns-shop.by/ru/product/14d288c04230ed20/operativnaa-pamat-adata-xpg-lancer-blade-ax5u5600c4616g-slabbk-16-gb/</url>
         <name>Оперативная память ADATA XPG Lancer Blade [AX5U5600C4616G-SLABBK] 16 ГБ</name>
-        <price>925.9</price>
+        <price>977.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3ea18ce6b84a7f37a5a051e07bcea325/q85_813b5aa4333a321729a06b68edad603d2e811efbfe5fde86bf6a43e6186cbda3.jpg.webp</picture>
@@ -7279,7 +7223,7 @@
       <offer id="5053599" available="true">
         <url>https://dns-shop.by/ru/product/5669272afb2ced20/operativnaa-pamat-kingston-fury-beast-black-kf552c40bb-16-16-gb/</url>
         <name>Оперативная память Kingston FURY Beast Black [KF552C40BB-16] 16 ГБ</name>
-        <price>914.9</price>
+        <price>1103.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/ff39f49285ce48d3e298ccb46e8ed9aa/q85_e5099b9d6dba73ffc7a69d1988b47b3381da4b4652b59cd359cf317e788439db.jpg.webp</picture>
@@ -7293,7 +7237,7 @@
       <offer id="5053600" available="true">
         <url>https://dns-shop.by/ru/product/887be87dfb2ced20/operativnaa-pamat-kingston-fury-beast-black-kf556c40bb-16-16-gb/</url>
         <name>Оперативная память Kingston FURY Beast Black [KF556C40BB-16] 16 ГБ</name>
-        <price>899.9</price>
+        <price>928.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/34d259f46feb2c7abfae6103751f014c/q85_bf3a9dafcc28c4629035a2c899064d9a7eb376a29bb4c1efc34b12cbe1da953c.jpg.webp</picture>
@@ -7349,7 +7293,7 @@
       <offer id="5053541" available="true">
         <url>https://dns-shop.by/ru/product/9ed60ce7fae5ed20/operativnaa-pamat-kingston-fury-beast-black-kf432c16bbk232-32-gb/</url>
         <name>Оперативная память Kingston FURY Beast Black [KF432C16BBK2/32] 32 ГБ</name>
-        <price>1149.9</price>
+        <price>1100.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/943cbc2783ba083c9927d2e1b2992fe2/q85_027438eed270bf22a038558d26a8fd6c8c0f38c80417a277f2480013f1921870.jpg.webp</picture>
@@ -7377,7 +7321,7 @@
       <offer id="5053666" available="true">
         <url>https://dns-shop.by/ru/product/ad9e70f7fb37ed20/operativnaa-pamat-kingston-fury-beast-black-kf552c40bbk2-16-16-gb/</url>
         <name>Оперативная память Kingston FURY Beast Black [KF552C40BBK2-16] 16 ГБ</name>
-        <price>1110.9</price>
+        <price>1080.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/6ba1535c15a01b653f2b0fde4604850b/q85_d0eead4bcd65d476664bb68d309b19316eeb97e103a9c2efdcecc11604633367.jpg.webp</picture>
@@ -7391,7 +7335,7 @@
       <offer id="5630901" available="true">
         <url>https://dns-shop.by/ru/product/afbf47af3f81d9cb/operativnaa-pamat-adata-xpg-lancer-blade-rgb-ax5u6000c3616g-dtlabrbk-32-gb/</url>
         <name>Оперативная память ADATA XPG Lancer Blade RGB [AX5U6000C3616G-DTLABRBK] 32 ГБ</name>
-        <price>1628.9</price>
+        <price>1655.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/014912df5c56be9a4d68ba316c562cdd/q85_675a9f7ce32962a588cd398ee59d30cc1d4010d3f818ff97920eb632bd707996.png.webp</picture>
@@ -7503,7 +7447,7 @@
       <offer id="5652403" available="true">
         <url>https://dns-shop.by/ru/product/99c3bfa6d3e8d9cb/operativnaa-pamat-patriot-viper-venom-pvv532g600c30k-32-gb/</url>
         <name>Оперативная память Patriot Viper Venom [PVV532G600C30K] 32 ГБ</name>
-        <price>1720.9</price>
+        <price>1750.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0a0659f3f6bbf83ca392041522e34372/q85_ab3609701d9a3700436daf5c28de4db9b609fa34c05ff25730eeadaf06f39639.jpg.webp</picture>
@@ -7545,7 +7489,7 @@
       <offer id="5031263" available="true">
         <url>https://dns-shop.by/ru/product/13934c38bbc9ed20/operativnaa-pamat-gskill-ripjaws-s5-f5-6000j3040f16gx2-rs5k-32-gb/</url>
         <name>Оперативная память G.Skill Ripjaws S5 [F5-6000J3040F16GX2-RS5K] 32 ГБ</name>
-        <price>1665.9</price>
+        <price>1702.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/d7da1a3688c2e5b14a42af877b7686f8/q85_f0d238746358d314a9d5c0822328a1d6784d259c147933f20dae9d914b343ec4.jpg.webp</picture>
@@ -7671,7 +7615,7 @@
       <offer id="5096541" available="true">
         <url>https://dns-shop.by/ru/product/1c8bcf129c42ed20/operativnaa-pamat-adata-xpg-lancer-ax5u6000c3016g-dclawh-32-gb/</url>
         <name>Оперативная память ADATA XPG Lancer [AX5U6000C3016G-DCLAWH] 32 ГБ</name>
-        <price>1769.9</price>
+        <price>1813.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>59</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/869bff85111cdcc34e7d20b4b59005df/q85_0f4b69f0b01dc26154fa7145cd42b016aa9c29fd0802ce7a07450cbe534a7a81.jpg.webp</picture>
@@ -7727,7 +7671,7 @@
       <offer id="5434446" available="true">
         <url>https://dns-shop.by/ru/product/df7308245e7eed20/operativnaa-pamat-sodimm-samsung-oem-m425r2ga3bb0-cwm-16-gb/</url>
         <name>Оперативная память SODIMM Samsung OEM [M425R2GA3BB0-CWM] 16 ГБ</name>
-        <price>836.9</price>
+        <price>888.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>60</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/713d35e0f5ce4e35f18ac3d2d2336472/q85_266961ee978963efa38446f40ea2c317e5f1612a75ae524fe50a0392057e0ca5.jpg.webp</picture>
@@ -7769,7 +7713,7 @@
       <offer id="5454634" available="true">
         <url>https://dns-shop.by/ru/product/604b63cbed8bd21a/blok-pitania-cougar-gr-750-31gr0756433p-cernyj/</url>
         <name>Блок питания Cougar GR 750 [31GR075.6433P] черный</name>
-        <price>233.9</price>
+        <price>252.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>61</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/658f3011ed5473fd3706af8982e7b677/q85_3259a34b09537270eb62430af8f86d97dfe0806fc3daba60c5b266bfd94dba73.jpg.webp</picture>
@@ -7797,7 +7741,7 @@
       <offer id="5454635" available="true">
         <url>https://dns-shop.by/ru/product/61fda40aed8bd21a/blok-pitania-cougar-gr-850-31gr0856433p-cernyj/</url>
         <name>Блок питания Cougar GR 850 [31GR085.6433P] черный</name>
-        <price>240.9</price>
+        <price>259.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>61</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/8b4b0e7a5c88998bb6a62847b8d2b4bb/q85_79603a8f093cc8be264f422702a70f3a50e7bf28fcab059b6dfc41a2cb5c61c6.jpg.webp</picture>
@@ -7850,21 +7794,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5401901" available="true">
-        <url>https://dns-shop.by/ru/product/6db2441fb283ed20/blok-pitania-montech-titan-gold-750-tis0123-cernyj/</url>
-        <name>Блок питания MONTECH TITAN GOLD 750 [TIS0123] черный</name>
-        <price>286.9</price>
-        <oldprice>504.9</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>61</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/74891907fcc8f7bd5547ea8cfeee45db/q85_3ba136f767a1a8201fb743afc390ae9202b08bc6ef857a6aabfc26a4550c5f5e.jpg.webp</picture>
-        <description>750 вт, 80+ gold, apfc, 20+4 pin, 2 x 4+4 pin cpu, 12 sata, 16 pin (12vhpwr), 4 x 6+2 pin pci-e</description>
-        <typePrefix>Блоки питания</typePrefix>
-        <vendor>Montech</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5432452" available="true">
         <url>https://dns-shop.by/ru/product/640c46975394ed20/blok-pitania-adata-xpg-core-reactor-ii-850-white-corereactorii850g-wh-belyj/</url>
         <name>Блок питания ADATA XPG CORE REACTOR II 850 White [COREREACTORII850G-WH] белый</name>
@@ -7910,7 +7839,7 @@
       <offer id="5480048" available="true">
         <url>https://dns-shop.by/ru/product/7b28575b52ead582/korpus-lian-li-a3-matx-wood-edition-g99a3x-wdr0-cernyj/</url>
         <name>Корпус LIAN LI A3-mATX Wood Edition [G99.A3X-WD.R0] черный</name>
-        <price>289.9</price>
+        <price>266.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>62</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/0769e8fa796b5ac2cfa5a85407f55f40/q85_124855f01009f9d60718f4ac1261fc42f67339cebc8d162909e64d5ad53ad14b.jpg.webp</picture>
@@ -7924,7 +7853,7 @@
       <offer id="5408789" available="true">
         <url>https://dns-shop.by/ru/product/8490134acf83ed20/korpus-lian-li-lancool-iii-rgb-g99lan3rx10r-cernyj/</url>
         <name>Корпус LIAN LI LANCOOL III RGB [G99.LAN3RX.10R] черный</name>
-        <price>503.9</price>
+        <price>525.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>62</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/fb24833ec23f93fceb8797ff36330c25/q85_35d695c45955422e09ae27026d1bbcba117363edd59088c706725001ec2504d7.jpg.webp</picture>
@@ -7938,7 +7867,7 @@
       <offer id="5439999" available="true">
         <url>https://dns-shop.by/ru/product/f9e116388a88ed20/korpus-lian-li-o11-dynamic-evo-rgb-g99o11dergbxr0-cernyj/</url>
         <name>Корпус LIAN LI O11 Dynamic EVO RGB [G99.O11DERGBX.R0] черный</name>
-        <price>562.9</price>
+        <price>592.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>62</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/5027c06506c3cc48a514eb9adb921296/q85_d143e7244d8bc551877780cde736fa0bb74a2862a96b28829e881f020be0ffcd.jpg.webp</picture>
@@ -7980,7 +7909,7 @@
       <offer id="5641660" available="true">
         <url>https://dns-shop.by/ru/product/3dd8788e952cd21a/sistema-ohlazdenia-lian-li-hydroshift-ii-lcd-s-360tl-cernaa/</url>
         <name>Система охлаждения LIAN LI HYDROSHIFT II LCD-S 360TL черная</name>
-        <price>651.9</price>
+        <price>684.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>64</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/e80be6d268b84db04f79fa2d837da49d/q85_b04752eb8d6b630f196f5ee5a289325de9a8ea1431890ad47af95bc0be279288.jpg.webp</picture>
@@ -7994,7 +7923,7 @@
       <offer id="5610958" available="true">
         <url>https://dns-shop.by/ru/product/856a2322bd08d9cb/komplekt-ventilatorov-lian-li-uni-fan-tl-wireless-120-3-g9912tl1w3wr0-belyj/</url>
         <name>Комплект вентиляторов LIAN LI UNI FAN TL WIRELESS 120-3 [G99.12TL1W3W.R0] белый</name>
-        <price>146.3</price>
+        <price>234.1</price>
         <oldprice>292.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>65</categoryId>
@@ -8009,7 +7938,7 @@
       <offer id="5046278" available="true">
         <url>https://dns-shop.by/ru/product/d870c9c7e7a0ed20/240-gb-25-sata-nakopitel-kingston-a400-sa400s37240g/</url>
         <name>240 ГБ 2.5" SATA накопитель Kingston A400 [SA400S37/240G]</name>
-        <price>240.9</price>
+        <price>256.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/8cd6f8f7283e4a49420f29d0945819e4/q85_5e2b1357c1e50314de33b9e65c983df97f4a226262dc728106c37e9857fbac13.jpg.webp</picture>
@@ -8051,7 +7980,7 @@
       <offer id="4746131" available="true">
         <url>https://dns-shop.by/ru/product/df4c99bd433f1b80/512-gb-25-sata-nakopitel-adata-su650-asu650ss-512gt-r/</url>
         <name>512 ГБ 2.5" SATA накопитель ADATA SU650 [ASU650SS-512GT-R]</name>
-        <price>261.9</price>
+        <price>303.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/689b7f181dda37d34fa0d74e45b4d140/q85_75540c15c4d90ac0accd930fe57250c714c179a6a6d409fb6eff4e1cdbdfe33b.jpg.webp</picture>
@@ -8107,7 +8036,7 @@
       <offer id="1615452" available="true">
         <url>https://dns-shop.by/ru/product/d6c92aae14a51b80/1000-gb-25-sata-nakopitel-crucial-bx500-ct1000bx500ssd1/</url>
         <name>1000 ГБ 2.5" SATA накопитель Crucial BX500 [CT1000BX500SSD1]</name>
-        <price>444.9</price>
+        <price>481.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>22</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2c233fd1e05d1cfa1206e7225e519620/q85_b563ad0f5fbf81483e969bebec1d4a64748f8b06a22751fda09a329dc0558328.jpg.webp</picture>
@@ -8191,7 +8120,7 @@
       <offer id="5606507" available="true">
         <url>https://dns-shop.by/ru/product/78c60575a7e3d582/500-gb-m2-nvme-nakopitel-kingston-nv3-snv3s500g/</url>
         <name>500 ГБ M.2 NVMe накопитель Kingston NV3 [SNV3S/500G]</name>
-        <price>428.9</price>
+        <price>445.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/2de35d369e03cfdc03059e868813b9d5/q85_dd389e67040936f4014150cd0f434fa1d71ea960aa18caa7fc3c8ae8e006799c.jpg.webp</picture>
@@ -8230,20 +8159,6 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5619110" available="true">
-        <url>https://dns-shop.by/ru/product/a8875893f3fdd582/1000-gb-m2-nvme-nakopitel-adata-legend-860-sleg-860-1000gcs/</url>
-        <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 860 [SLEG-860-1000GCS]</name>
-        <price>481.9</price>
-        <currencyId>BYN</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/7b28b6915a5ececcf2d69e03e3bd6ce9/q85_b2edb1ed00b1d3c0fb8254392cb0a676243fbe5577a8e9731b5b30fe4522ffbd.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 6000 мбайт/сек, запись - 4000 мбайт/сек, nvm express, tbw - 320 тб</description>
-        <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>ADATA</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
       <offer id="5499607" available="true">
         <url>https://dns-shop.by/ru/product/fe0d78e690d9d582/1000-gb-m2-nvme-nakopitel-kingston-nv3-snv3s1000g/</url>
         <name>1000 ГБ M.2 NVMe накопитель Kingston NV3 [SNV3S/1000G]</name>
@@ -8275,7 +8190,7 @@
       <offer id="5440375" available="true">
         <url>https://dns-shop.by/ru/product/8d26c46b8db3ed20/1000-gb-m2-nvme-nakopitel-msi-spatium-m450-s78-440l980-p83/</url>
         <name>1000 ГБ M.2 NVMe накопитель MSI SPATIUM M450 [S78-440L980-P83]</name>
-        <price>534.0</price>
+        <price>629.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3b2e24327a309ccc31ab3e82572422ab/q85_82b727f91313896f6b6fcc7bb603b3e687574438f750c03181877264968c81cd.jpg.webp</picture>
@@ -8317,7 +8232,7 @@
       <offer id="5425203" available="true">
         <url>https://dns-shop.by/ru/product/af1671ec277ced20/1000-gb-m2-nvme-nakopitel-adata-legend-900-sleg-900-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 900 [SLEG-900-1TCS]</name>
-        <price>518.9</price>
+        <price>569.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/beef2b445b56d9b1804120dadb9cebbc/q85_323577100245fa4724e7e761f680ba930963c105f771e82dd75e75694be27fa4.jpg.webp</picture>
@@ -8373,7 +8288,7 @@
       <offer id="5076978" available="true">
         <url>https://dns-shop.by/ru/product/6351062f439ced20/1000-gb-m2-nvme-nakopitel-adata-legend-960-aleg-960-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 960 [ALEG-960-1TCS]</name>
-        <price>599.9</price>
+        <price>606.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/cb85dd1e15bf0bc28af1131b4e4d9859/q85_99aaa22be7005b452848a375de92ea8f9caca505f7bc2e945150c312657e4c8f.jpg.webp</picture>
@@ -8401,7 +8316,7 @@
       <offer id="5094673" available="true">
         <url>https://dns-shop.by/ru/product/c413c3309562ed20/1000-gb-m2-nvme-nakopitel-adata-legend-960-max-aleg-960m-1tcs/</url>
         <name>1000 ГБ M.2 NVMe накопитель ADATA LEGEND 960 MAX [ALEG-960M-1TCS]</name>
-        <price>574.9</price>
+        <price>637.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/1f01b05c8e03e276e5277fe3d4f9f0bc/q85_210695ca09c833a2ed4a9193e8eb34259e198a8caf0ca9ed56a302fc3ba3bf22.jpg.webp</picture>
@@ -8443,7 +8358,7 @@
       <offer id="9942157" available="true">
         <url>https://dns-shop.by/ru/product/39779619c38e0fd2/1000-gb-m2-nvme-nakopitel-samsung-990-pro-mz-v9p1t0bw/</url>
         <name>1000 ГБ M.2 NVMe накопитель Samsung 990 PRO [MZ-V9P1T0BW]</name>
-        <price>740.9</price>
+        <price>781.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/6841571407a55206246dd3fccd27045d/q85_c0e0fdbb70b14fa69e223b44b1ea251d48ea8fde682cf2a535075882a6c7a1aa.jpg.webp</picture>
@@ -8454,16 +8369,16 @@
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
       </offer>
-      <offer id="5092100" available="true">
-        <url>https://dns-shop.by/ru/product/8bd59f9e81e4ed20/1000-gb-m2-nvme-nakopitel-kingston-fury-renegade-sfyrsk1000g/</url>
-        <name>1000 ГБ M.2 NVMe накопитель Kingston FURY Renegade [SFYRSK/1000G]</name>
-        <price>766.9</price>
+      <offer id="5425204" available="true">
+        <url>https://dns-shop.by/ru/product/13229c9d277ded20/2000-gb-m2-nvme-nakopitel-adata-legend-900-sleg-900-2tcs/</url>
+        <name>2000 ГБ M.2 NVMe накопитель ADATA LEGEND 900 [SLEG-900-2TCS]</name>
+        <price>747.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/3be291d3488a0e10e8523a4b463240c1/q85_6c07efc548daeef5e10c25348193c12ddc1d020ac29e9dec00a4d756a0e94aba.jpg.webp</picture>
-        <description>Pcie 4.0 x4, чтение - 7300 мбайт/сек, запись - 6000 мбайт/сек, 3 бит tlc, nvm express, tbw - 1000 тб</description>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/9448d1d830c1c7ea882f066b7e7626a0/q85_590e58724e054897c683b92c40322a1a0781fa9f3d5216ac7ecf318576912083.jpg.webp</picture>
+        <description>Pcie 4.0 x4, чтение - 7000 мбайт/сек, запись - 5400 мбайт/сек, nvm express, tbw - 1200 тб</description>
         <typePrefix>SSD M.2 накопители</typePrefix>
-        <vendor>Kingston</vendor>
+        <vendor>ADATA</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -8471,7 +8386,7 @@
       <offer id="5619111" available="true">
         <url>https://dns-shop.by/ru/product/f0dd856ef3fdd582/2000-gb-m2-nvme-nakopitel-adata-legend-860-sleg-860-2000gcs/</url>
         <name>2000 ГБ M.2 NVMe накопитель ADATA LEGEND 860 [SLEG-860-2000GCS]</name>
-        <price>755.9</price>
+        <price>778.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>23</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/eeddf869f074e5e491660e821c0d9b76/q85_6e1e04d9c0ae39c688fc0f0ada5ba280ddf3be411b03f4675abe5455386ef881.jpg.webp</picture>
@@ -8583,7 +8498,7 @@
       <offer id="5017248" available="true">
         <url>https://dns-shop.by/ru/product/e90c8f2c92c6ed20/8-tb-zestkij-disk-seagate-exos-7e10-st8000nm017b/</url>
         <name>8 ТБ Жесткий диск Seagate Exos 7E10 [ST8000NM017B]</name>
-        <price>1322.0</price>
+        <price>1375.4</price>
         <oldprice>1739.9</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>66</categoryId>
@@ -8598,7 +8513,7 @@
       <offer id="5054194" available="true">
         <url>https://dns-shop.by/ru/product/546be40cfb9bed20/20-tb-zestkij-disk-seagate-exos-x20-st20000nm007d/</url>
         <name>20 ТБ Жесткий диск Seagate Exos X20 [ST20000NM007D]</name>
-        <price>1848.7</price>
+        <price>1949.6</price>
         <oldprice>2908.0</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>66</categoryId>
@@ -8627,28 +8542,13 @@
       <offer id="5062146" available="true">
         <url>https://dns-shop.by/ru/product/3651b958145eed20/mfu-lazernoe-hp-laserjet-m141w/</url>
         <name>МФУ лазерное HP LaserJet M141w</name>
-        <price>704.9</price>
+        <price>629.9</price>
         <currencyId>BYN</currencyId>
         <categoryId>67</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/4998f2293b6dff4175529d199d187a38/q85_60a82d9dfa3877cc977621eaf17963ba5b0cff772a5811d2e06b2b47d9b595c4.jpg.webp</picture>
         <description>Черно-белая печать, a4, 600x600 dpi, ч/б - 20 стр/мин (a4), usb type-b, wi-fi</description>
         <typePrefix>Лазерные МФУ</typePrefix>
         <vendor>HP</vendor>
-        <pickup>true</pickup>
-        <delivery>true</delivery>
-        <manufacturer_warranty>true</manufacturer_warranty>
-      </offer>
-      <offer id="9056407" available="true">
-        <url>https://dns-shop.by/ru/product/e5ee36681d5ac05d/mfu-lazernoe-canon-i-sensys-mf651cw/</url>
-        <name>МФУ лазерное Canon i-SENSYS MF651Cw</name>
-        <price>1360.9</price>
-        <oldprice>1660.9</oldprice>
-        <currencyId>BYN</currencyId>
-        <categoryId>67</categoryId>
-        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/093d49de37e3735d814c8c732af7cefc/q85_c3ddea6e95e7cd5747f6133b2947b644531f2d0ee4fea4fba4865f52d049207e.jpg.webp</picture>
-        <description>Цветная печать, a4, 1200x1200 dpi, ч/б - 18 стр/мин (a4), ethernet (rj-45), usb, wi-fi</description>
-        <typePrefix>Лазерные МФУ</typePrefix>
-        <vendor>Canon</vendor>
         <pickup>true</pickup>
         <delivery>true</delivery>
         <manufacturer_warranty>true</manufacturer_warranty>
@@ -8688,7 +8588,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>68</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/95842bf920f8fce0cf12a5616f63c2db/q85_6bc3e4dc51478ad3b357a52d2cd9db5560e4f78dd56a6e75954b5facc9d25568.jpg.webp</picture>
-        <description>Цветная печать, a4, 5760x1440 dpi, ч/б - 10 стр/мин (a4), usb type-a, снпч</description>
+        <description>Цветная печать, 100 x 150 мм, a4, a5, a6, 5760x1440 dpi, ч/б - 10 стр/мин (a4), usb type-b, снпч</description>
         <typePrefix>Струйные МФУ</typePrefix>
         <vendor>Epson</vendor>
         <pickup>true</pickup>
@@ -8698,7 +8598,7 @@
       <offer id="5074836" available="true">
         <url>https://dns-shop.by/ru/product/8939ec6d38b2ed20/mfu-strujnoe-epson-l3250/</url>
         <name>МФУ струйное Epson L3250</name>
-        <price>629.0</price>
+        <price>588.0</price>
         <currencyId>BYN</currencyId>
         <categoryId>68</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/5f09dc647e6d5a58e3ec0dd7e36604c4/q85_15a45968c7ecf64be8abd3432d6ff93e75555ee227dff68444a7ab70d97a6ab5.jpg.webp</picture>
@@ -8951,7 +8851,8 @@
       <offer id="5448894" available="true">
         <url>https://dns-shop.by/ru/product/179e5226cbc4ed20/komputernoe-kreslo-cougar-explore-royal-f-cernyj/</url>
         <name>Компьютерное кресло Cougar Explore Royal F черный</name>
-        <price>592.6</price>
+        <price>520.8</price>
+        <oldprice>592.6</oldprice>
         <currencyId>BYN</currencyId>
         <categoryId>71</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/442db5fd3e6f55cee11d1c9c0f22d178/q85_9097d56d6b037bfde4e9001deeb11407464b940b94ba8c6b34c9493a18dfbef3.jpg.webp</picture>
@@ -9083,7 +8984,7 @@
         <currencyId>BYN</currencyId>
         <categoryId>73</categoryId>
         <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/345b599f1c96089e1479b5bc5e7a681b/q85_a857f768a1bd4413d6e88d33de671f89640bddbfbaa81ba4a42bca15f37b9e7e.jpg.webp</picture>
-        <description>4 lan, 10 мбит/с, 2500 мбит/с, 1000 мбит/с, 100 мбит/с, 4 (802.11n), 5 (802.11ac), 6 (802.11ax), 7 (802.11be), wi-fi 3570 мбит/с, usb 3.2 gen 1 type-a x 1, ipv6</description>
+        <description>1x wan, 4x lan, 100 мбит/с, 1000 мбит/с, 2500 мбит/с, 10 мбит/с, 4 (802.11n), 5 (802.11ac), 6 (802.11ax), 7 (802.11be), wi-fi 3570 мбит/с, usb 3.2 gen 1 type-a x 1, ipv6</description>
         <typePrefix>Wi-Fi роутеры</typePrefix>
         <vendor>TP-Link</vendor>
         <pickup>true</pickup>
